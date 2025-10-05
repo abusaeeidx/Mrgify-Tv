@@ -41,7 +41,7 @@ Mrgify-Tv offers a curated BDIX IPTV playlist with fast and reliable live TV cha
 Designed for BDIX users to get the best streaming performance without buffering.
 
 **Website:** [https://t.me/](https://t.me/)  
-**Topics:** `bdix` `iptv` `playlist` `m3u8` `bangladesh` `livetv` `xfireflix`
+**Topics:** `bdix` `iptv` `playlist` `m3u8` `bangladesh` `livetv` `Mrgify-Tv`
 
 ---
 
@@ -55,5 +55,5 @@ The author does not host or distribute any copyrighted content.
 
 ## Credits
 
-Developed by **hh**  
-Telegram: [@](https://t.me/)
+Developed by **Mrgify-Tv**  
+Telegram: [@Mrgify-Tv](https://t.me/)
