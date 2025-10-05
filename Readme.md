@@ -56,4 +56,4 @@ The author does not host or distribute any copyrighted content.
 ## Credits
 
 Developed by **hh**  
-Telegram: [@xfireflix](https://t.me/)
+Telegram: [@](https://t.me/)
