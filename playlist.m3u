@@ -409,3 +409,64 @@ https://tvsen6.aynaott.com/dhoom/index.m3u8?e=1753741270&u=9a031201-22d8-4f7e-95
 https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1753741271&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=28fb5e55cb2dfae7a459262dc691f93b
 #EXTINF:-1 tvg-id="bdf309a5-d732-45d8-989a-5ad5defd0224" tvg-name="Power Turk" tvg-logo="https://s3.aynaott.com/storage/4329cb48da7e29dff8be49eb4f80c4cd" group-title="Türkiye",Power Turk
 https://tvsen6.aynaott.com/PowerTurkTV/index.m3u8?e=1753741272&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=12487bb826c21584d19a8b241d46e893
+
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="" tvg-name="ASIACUP NO ADS" tvg-logo="https://static.toiimg.com/thumb/msid-114057108,width-1280,height-720,imgsize-31622,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" group-title="Sports | By Xfireflix",ASIACUP NO ADS
+http://nayatv.ydns.eu:80/freecric/cricfree/13367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports HD (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports | By Xfireflix",Ptv Sports HD (A)
+http://nayatv.ydns.eu:80/freecric/cricfree/12331.ts
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-name="Ptv Sports HD (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports | By Xfireflix",Ptv Sports HD (B)
+http://nayatv.ydns.eu:80/freecric/cricfree/6264.ts
+#EXTINF:-1 tvg-id="" tvg-name="OT | Ptv Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports | By Xfireflix",OT | Ptv Sports HD
+http://nayatv.ydns.eu:80/freecric/cricfree/12027.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS TEN 1 HD ENG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-q5QL_u-PSIy4dVzJSOxUCLQrFFLAbF8zQQ&s" group-title="Sports | By Xfireflix",SONY SPORTS TEN 1 HD ENG
+http://nayatv.ydns.eu:80/freecric/cricfree/13352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 2 HD (T)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="Sports | By Xfireflix",Sony Sports 2 HD (T)
+http://nayatv.ydns.eu:80/freecric/cricfree/12590.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2lOkLg4-J4Yyh0DW1i3-BwXzXjXQiV4zCg&s" group-title="Sports | By Xfireflix",SONY SPORTS TEN 5 HD
+http://nayatv.ydns.eu:80/freecric/cricfree/13353.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Sony Sports 1 HD (D)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-q5QL_u-PSIy4dVzJSOxUCLQrFFLAbF8zQQ&s" group-title="Sports | By Xfireflix",Sony Sports 1 HD (D)
+http://nayatv.ydns.eu:80/freecric/cricfree/11679.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Sony Sports 2 HD (D)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500" group-title="Sports | By Xfireflix",Sony Sports 2 HD (D)
+http://nayatv.ydns.eu:80/freecric/cricfree/11680.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Sony Sports 5 HD (D)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP2lOkLg4-J4Yyh0DW1i3-BwXzXjXQiV4zCg&s" group-title="Sports | By Xfireflix",Sony Sports 5 HD (D)
+http://nayatv.ydns.eu:80/freecric/cricfree/11681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 3 Hindi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="Sports | By Xfireflix",Sony Sports 3 Hindi HD
+http://nayatv.ydns.eu:80/freecric/cricfree/12562.ts
+#EXTINF:-1 tvg-id="TENCRIC" tvg-name="Ten Sports HD (A)" tvg-logo="https://lh3.googleusercontent.com/PTrqyVPLaLXP-COA7cUO7HvnL46GhIYstFHEr-oWPBsN-v_3j74nwL4L8b8WPZxQ7fk" group-title="Sports | By Xfireflix",Ten Sports HD (A)
+http://nayatv.ydns.eu:80/freecric/cricfree/12330.ts
+#EXTINF:-1 tvg-id="TENCRIC" tvg-name="Ten Sports HD (B)" tvg-logo="https://lh3.googleusercontent.com/PTrqyVPLaLXP-COA7cUO7HvnL46GhIYstFHEr-oWPBsN-v_3j74nwL4L8b8WPZxQ7fk" group-title="Sports | By Xfireflix",Ten Sports HD (B)
+http://nayatv.ydns.eu:80/freecric/cricfree/12299.ts
+#EXTINF:-1 tvg-id="" tvg-name="OT | Ten Sports HD" tvg-logo="https://lh3.googleusercontent.com/PTrqyVPLaLXP-COA7cUO7HvnL46GhIYstFHEr-oWPBsN-v_3j74nwL4L8b8WPZxQ7fk" group-title="Sports | By Xfireflix",OT | Ten Sports HD
+http://nayatv.ydns.eu:80/freecric/cricfree/6445.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Sports HD (B)" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="Sports | By Xfireflix",A Sports HD (B)
+http://nayatv.ydns.eu:80/freecric/cricfree/12366.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Sports HD (A)" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="Sports | By Xfireflix",A Sports HD (A)
+http://nayatv.ydns.eu:80/freecric/cricfree/3834.ts
+#EXTINF:-1 tvg-id="" tvg-name="OT | A Sports HD" tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8" group-title="Sports | By Xfireflix",OT | A Sports HD
+http://nayatv.ydns.eu:80/freecric/cricfree/12026.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://www.vhv.rs/dpng/d/29-291666_star-sports-1-hindi-hd-png-download.png" group-title="Sports | By Xfireflix",Star Sports 1 Hindi HD
+http://nayatv.ydns.eu:80/freecric/cricfree/3716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png" group-title="Sports | By Xfireflix",Star Sports 1 HD
+http://nayatv.ydns.eu:80/freecric/cricfree/12472.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Star Sports 1 HD (D)" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png" group-title="Sports | By Xfireflix",Star Sports 1 HD (D)
+http://nayatv.ydns.eu:80/freecric/cricfree/3715.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Star Sports 2 HD (D)" tvg-logo="https://w7.pngwing.com/pngs/724/655/png-transparent-star-sports-star-india-television-channel-sony-ten-2-cricket-television-text-sport.png" group-title="Sports | By Xfireflix",Star Sports 2 HD (D)
+http://nayatv.ydns.eu:80/freecric/cricfree/11677.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://w7.pngwing.com/pngs/724/655/png-transparent-star-sports-star-india-television-channel-sony-ten-2-cricket-television-text-sport.png" group-title="Sports | By Xfireflix",Star Sports 2 Hindi HD
+http://nayatv.ydns.eu:80/freecric/cricfree/12473.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Star Sports 3 SD (D)" tvg-logo="https://w7.pngwing.com/pngs/724/655/png-transparent-star-sports-star-india-television-channel-sony-ten-2-cricket-television-text-sport.png" group-title="Sports | By Xfireflix",Star Sports 3 SD (D)
+http://nayatv.ydns.eu:80/freecric/cricfree/11682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD" tvg-logo="https://w7.pngwing.com/pngs/463/347/png-transparent-star-sports-high-definition-television-star-india-others-television-angle-text.png" group-title="Sports | By Xfireflix",Star Sports Select 1 HD
+http://nayatv.ydns.eu:80/freecric/cricfree/12474.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Star Sports Select 1 HD (D)" tvg-logo="https://w7.pngwing.com/pngs/463/347/png-transparent-star-sports-high-definition-television-star-india-others-television-angle-text.png" group-title="Sports | By Xfireflix",Star Sports Select 1 HD (D)
+http://nayatv.ydns.eu:80/freecric/cricfree/11678.ts
+#EXTINF:-1 tvg-id="ts840" tvg-name="Star Sports Select 2 HD" tvg-logo="https://w7.pngwing.com/pngs/463/347/png-transparent-star-sports-high-definition-television-star-india-others-television-angle-text.png" group-title="Sports | By Xfireflix",Star Sports Select 2 HD
+http://nayatv.ydns.eu:80/freecric/cricfree/3720.ts
+#EXTINF:-1 tvg-id="ts812" tvg-name="Eurosports HD (D)" tvg-logo="https://logowik.com/content/uploads/images/474_eurosport.jpg" group-title="Sports | By Xfireflix",Eurosports HD (D)
+http://nayatv.ydns.eu:80/freecric/cricfree/11683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpCIl-CMVqUOiyyMvl094Vt4DFSVy_6jmuC04zlWzxQkNRjl3Vs_YcWjMTypeKAz8ah4&usqp=CAU" group-title="Sports | By Xfireflix",Geo Super
+http://nayatv.ydns.eu:80/freecric/cricfree/3787.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fast Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqfgYMTUt54pE-tLrd-Hqy1KYeP1M2_iYsWogk6vgH6OT5ecZUmvpb8-DjbJeRaAUi8w&usqp=CAU" group-title="Sports | By Xfireflix",Fast Sports HD
+http://nayatv.ydns.eu:80/freecric/cricfree/3774.ts
