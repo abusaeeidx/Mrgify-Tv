@@ -470,3 +470,1359 @@ http://nayatv.ydns.eu:80/freecric/cricfree/11683.ts
 http://nayatv.ydns.eu:80/freecric/cricfree/3787.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fast Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqfgYMTUt54pE-tLrd-Hqy1KYeP1M2_iYsWogk6vgH6OT5ecZUmvpb8-DjbJeRaAUi8w&usqp=CAU" group-title="Sports | By Xfireflix",Fast Sports HD
 http://nayatv.ydns.eu:80/freecric/cricfree/3774.ts
+
+
+#EXTINF:-1 group-title="Bangla" tvg-id="akashaat.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png",AKASH 8
+https://cdn-4.pishow.tv/live/969/master.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="amarbangla.bd" tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="ANANDATV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b7/Ananda_TV_logo.png",ANANDA TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="asiantv.bd" tvg-logo="https://yt3.googleusercontent.com/AKdtkYcJ5cbC1NNkbELbIarJgjbCxsyQ08rW-LAbtZ0F8KdDGutcTKLmRpdFf5hxtC_UrFpO=s160-c-k-c0x00ffffff-no-rj",ASIAN TV
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/146.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="atnbangla.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/ATN_Bangla.svg",ATN BANGLA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="RupasiBangla.in" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/bca91028648475.55cb019683f2a.png",Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="banglavision.bd" tvg-logo="https://www.bvnews24.com/media/common/newbvlogo.png",BANGLA VISION
+http://stvlive.net:8080/banglavision/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="BOISHAKHITV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/Boishakhi_TV_HD_logo_2022.png",BOISHAKHI TV
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/60.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="btv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg",BTV
+http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="channeli.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Channel_i_HD_logo_2021.png",CHANNEL I
+http://stvlive.net:8080/channeli/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="colors.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg",Colors Bangla HD
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="DDBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dd_2019.webp",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="deeptotv.bd" tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg",DEEPTO TV HD
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="DESHTV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/27/Desh_TV_on-screen_logo_2022.png",DESH TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="DesheBideshe" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",DesheBideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="deshitv.bd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/desitv.png",Deshi TV
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="ekushey.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushay TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="ekushey.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushay TV (Local)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="enter10bangla.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter10 Bangla HD
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="GLOBALTV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Global_Television_HD_logo.png",GLOBAL TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="GTVHD.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",GTV HD
+http://stvlive.net:8080/gtv/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="ibtv.us" tvg-logo="https://yt3.googleusercontent.com/pQdSWGqiXZA5QEDm6A3dY2I-kg9IIlkF0YNXqvZKjaF12-HEcobFxEHPlbYNxxqitTlvPJewkT8=s160-c-k-c0x00ffffff-no-rj",IB Tv Usa
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="iontv.us" tvg-logo="https://static.wikitide.net/avidwiki/2/22/Ion5.png",iON TV
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="KhushbooBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png",Khushboo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="MAASRANGA.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png",MAASRANGA HD
+http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="MagicBanglaTV" tvg-logo="https://magicbanglatv.com/images/logo-170679715465bba8620786e.png",Magic Bangla TV
+https://jolshabd.com/live/mbanglatv/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="Metv" tvg-logo="https://yt3.googleusercontent.com/OHsKWwrPCUUomluu0R4GqjQNXuD3vOHDK3dLq2Qczmu9ZI5X7ljltXoHM8c4-vElz4DdD3qflQ=s72-c-k-c0x00ffffff-no-rj",Me TV
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla TV
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="MUSICBANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg",MUSIC BANGLA
+http://live.matribhumitv.com/music-bangla/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="MusicBangla2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg",Music Bangla 2
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="deshitv.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",MY TV
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="NAGORIK HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png",NAGORIK HD
+http://stvlive.net:8080/nagorik/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="NEXUSTV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png",NEXUS TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="ntv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/NTV_Bangladesh.svg",NTV HD
+https://ap02.iqplay.tv:8082/iqb8002/nt589v/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://yt3.googleusercontent.com/NgVaE3RsOhC9cIV_6kTp0h2ikrHIFG8QPJF5IrRg_nPiQbQeG-dzK5SHLmi_MDEyVNj73aeSHg=s160-c-k-c0x00ffffff-no-rj", NTV Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759673875/ei/syniaJ-lOd2P2_gP5P7b-Aw/ip/135.232.177.244/id/lV_SkRHLT5s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/ATw7iSW0X4ZatXhQ1jzy2cSGOhsKusW4ZiCa5Y4Zv3s_ZZWOfYNaxNtB8UuQxmhdrxhHdA3KJg/spc/hcYD5VAAdGSYV-f19LGRUPK3fdksy95GTq2qnvpam4zLSYq0gUGAdpJrP6f1xMmKBykgisetmRWZP-7fa0M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLc7LD5J336LP7VGiGFpAp6wU-ysftltks1XKD_nYqu8CIDnQo-bygXBd9Fak_mlxvcih4fDDdLfc10TPNtiK9XvZ/file/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="OrangeBanglaTV.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Orange_Bangla_logo_%282018%29.png",Orange Bangla TV
+https://cdn-4.pishow.tv/live/1499/master.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="rtv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Rtv_bangladesh.svg",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="Sanandatv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sananda_TV_logo.jpeg",Sananda TV
+https://live.sanonda.tv/sanonda/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="sonyaathhd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png",SONY AATH HD
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png",STAR JALSHA HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="sunbangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png",SUN Bangla
+https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="TaraTV.in" tvg-logo="https://a.jsrdn.com/hls/23215/tara-tv/logo_20250401_184429_70.png",Tara TV
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="timetelevision.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/News_Time_2.jpg",Time Televis HD
+http://208.86.19.13:81/506.stream/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-id="US-BDJournal24TV" tvg-logo="https://www.usbdjournal24.com/wp-content/uploads/2025/09/Picsart_25-09-11_13-55-56-310-scaled.png",US-BD Journal 24 TV
+http://208.86.19.13:81/510.stream/index.m3u8?
+#EXTINF:-1 group-title="Bangla" tvg-id="zeebangla.in" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg",Zee Bangla HD
+https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="atnnews.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png",BD | ATN News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="channel24.bd" tvg-logo="https://yt3.googleusercontent.com/8Q8MCd6ypr2Hzbp60VE_stJPl063kQYfeTxdIQkAXRfhdzxByLl0sJYHsk43uTM4W_cOzwcbPQ=s160-c-k-c0x00ffffff-no-rj",BD | Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mcjICfjqYwOn4eljNmtsZLBpOmW0t0JlzJUhXSslAkBVo=s160-c-k-c0x00ffffff-no-rj", BD | DBC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759673872/ei/sCniaMe0D9Gjlu8Pjfq-wQM/ip/135.232.177.244/id/aA9c7IeM7JU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/maudio/1/gcr/us/siu/1/bui/ATw7iSWkePLaMDue9mop89uFaEmLnwUycvhrvOpjs6EmJAjqQPD14JZSnX7sbZGxhwpvBmg14A/spc/hcYD5X2Q2L9ZSo0S2KjBM3D4Xya5YwoOvIg9XNUkEVz3JVPzLs1icdmLbrKFZjhw7L9W31B_meFmC_FMd_g/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQO73Cagl5uW115V9lGl4AGSM7wFMUc_yNd5ahNU5tDACIHGOdKn3lUs-55H_zhqiU5e2ntHu1rLX1tPUFk2Mt2-2/file/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="ekattor.tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png",BD | Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="EKHON.TV" tvg-logo="https://ekhon.tv/logo.png",BD | EKHON TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="INDEPENDENTTV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bb/Independent_logo_2011.png",BD | Independent Television
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="jamuna.tv" tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a43ac0d1ffc1705261760.jpg",BD | JAMUNA TV
+http://stvlive.net:8080/jamuna/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="NEWS24.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png",BD | NEWS24 Television
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="somoyNEWS.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Somoy_Television.svg",BD | SOMOY NEWS
+https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="TBN24.us" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png",BD | TBN 24 USA
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="ABPAnanda.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Abp-ananda.png",IN | ABP Ananda
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="BanglaJagoTV" tvg-logo="https://banglajagotv.com/wp-content/themes/BANGLAJAGOTV/images/logo.png",IN | Bangla Jago TV
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="CalcuttaNews" tvg-logo="https://assets.calcuttatelevisionnetwork.in/cn.png",IN | Calcutta News
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="highnews.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/High-news.jpg",IN | High News
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="KolkataTv.in" tvg-logo="https://a.jsrdn.com/hls/23215/kolkata-tv/logo_20250819_185012_70.png",IN | Kolkata Tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="News18BanglaNews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/News18_Bangla1.svg/",IN | News18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/ts-eu-w1-n2/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="R Plus News" tvg-logo="https://rplus.in/wp-content/uploads/2025/06/RPLUS_NEWS.png",IN | R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="RepublicBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg",IN | Republic Bangla
+https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="TribeTV.in" tvg-logo="https://a.jsrdn.com/hls/23215/tribe-tv/logo_20250429_225821_70.png",IN | Tribe TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-id="TV9Bangla.in" tvg-logo="https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg",IN | TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://yt3.googleusercontent.com/ou3JhDnH8ChdzRKooH5hGjTRGKpr9dGhi7lv7QW2zgmrnme0HbPKc8qI3yu8ZdI6NZna-CdJFw=s160-c-k-c0x00ffffff-no-rj", IN | Zee 24 Ghanta
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759673895/ei/xyniaNPxI9iFlu8PyZvguAI/ip/135.232.177.244/id/-25KJ0dlOA0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/ATw7iSWsxvlR1FUVi2j7Gv-rng490gLEBQc2jC2XwYgSbX6NXrXhUL9Cms-z7GvDtFfgk4xCEw/spc/hcYD5b3Pck_sCddU8CieNLV6s-Q5u9WD5Po8YBlzB8uai8WJYW5TXREcc5tMeVzAWG9q3HVI9NX_Z2-td4o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSpiAIV072RQ2mjlWtcRkXQaqtv4uZwVgkYpjzrKOu-gCIQDTMXtgaI7Mu6_cE0vFwKQNswPv08eyzQGvgh8BL2FjfQ%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="ABCNewsChannel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg",ABC News Channel
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="ABCNewsin90Seconds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg",ABC News in 90 Seconds
+https://c.mjh.nz/news_in_90_seconds
+#EXTINF:-1 group-title="International News" tvg-id="ABCSportin90Seconds" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/ABC_News_2021_%28stacked%29.svg",ABC Sport in 90 Seconds
+https://c.mjh.nz/sport_in_90_seconds
+#EXTINF:-1 group-title="International News" tvg-id="WWAYDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/WWAY_3_%282016%29.svg",ABC WWAY 3
+https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="AccuWeatherNOW.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/AccuWeather_2019_stacked.svg",AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="Africanews.sa" tvg-logo="https://a.jsrdn.com/hls/22886/africanews/logo_20231218_175639_70.png",Africanews
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="aljazeera.com" tvg-logo="https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png",Al Jazeera English HD
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="Arirang" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/The_World_On_Arirang_Logo.svg",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="BBCNews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/BBC_News_2019.svg",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100022O4_20240131T032219SQUARE.png_20240131032219.png",Bloomberg Originals
+https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdPcmlnaW5hbHNfSExT/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="BloombergTV.us" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/01/bloomberg-television-logo-300x150.png",Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="BloombergTV.event@LiveEvent" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/01/bloomberg-television-logo-300x150.png",Bloomberg TV Live Event
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="CBNNews" tvg-logo="https://cbn.com/themes/custom/cbn_emulsify/cbn-logo-full.svg",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="CBSNews.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png",CBS News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799153-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15376bcb-2b34-4530-a2f7-c528a8eb2aa3
+#EXTINF:-1 group-title="International News" tvg-id="CGTN.cn" tvg-logo="https://yt3.googleusercontent.com/ZswtbrleL4K7ameGvmiWb-FTsBCPpWf9Awwt6rUTQtbKe-sf1MbdvxtCGAqcdp7rksGs0oi1=s120-c-k-c0x00ffffff-no-rj",CGTN
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="cna.sg" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="CNBC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3600001NO_20250107T030601SQUARE.png",CNBC
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-samsunggb/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="CNNInternational.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/CNN_International_2009.svg",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="cnn.us" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo-2014-present-700x394.jpg",CNN USA
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="ConnectingAmerica" tvg-logo="https://yt3.googleusercontent.com/66gxol1mzEksrTJBYWD0dfPLqxrcN7n92CDVDzBiY_7fWD7afr4HPjKGp7ls1KgY5MECkEDt_g=s72-c-k-c0x00ffffff-no-rj",Connecting America
+https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="dwnews" tvg-logo="https://img.favpng.com/8/20/21/logo-deutsche-welle-dw-tv-dw-espa-ol-png-favpng-HaURNeixYqyctM1CSnmKA1kWk.jpg",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="EACNewsTV.kh@SD" tvg-logo="https://eacnews.asia/front/img/E-Arts03-01.png",EAC News TV
+https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="EuronewsEnglish.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Euronews_2022_Stacked_III.svg",Euronews English
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="FoxNews.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg",Fox News
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="France24.fr@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg",France 24 English
+http://iptv.prosto.tv:7000/ch205/video.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="GBNews" tvg-logo="https://assets.rbl.ms/61228189/origin.png",GB News
+https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="GlobalNews.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Global_News_2022_Block_inside.svg",Global News (US)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="HLN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="IranPress.ir" tvg-logo="https://iranpress.com//img/watermark.png",Iran Press (720p)
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="NBC News NOW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1500004LG_20250107T030724SQUARE.png",NBC News NOW
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001&ads.xumo_streamId=88896001&ads.caid=nbcnewsnow&ads.csid=samsungtvplus_uk_nbcnewsnow_ssai&ads.sfid=&ads.afid=nbcnewsnow&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=UK&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=nbcnewsnow&ads.xumo_providerId=1828&ads.xumo_providerName=nbcnewsnow&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbcnewsnow_uk&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 group-title="International News" tvg-id="News Max 2" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",News Max 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="Newsmax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Newsmax_2021.svg",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="OANPlus.us" tvg-logo="https://a.jsrdn.com/hls/22866/oan-encore/logo_20231219_220536_57.png",OAN Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="RTnews.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg",RT News (Russia)
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="RTNEWS GLOBAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg",RT NEWS GLOBAL
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
+#EXTINF:-1 group-title="International News" tvg-id="SkyNews.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Sky_News_2018.svg",Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="TRTWorld.tr" tvg-logo="https://yt3.googleusercontent.com/luLQWmGFG4iDC1U_2JlzZ1mquci_sUdfZfFl4eWgBkDpW6tvZT0MEA4c4JebJdi9hCo518q1=s160-c-k-c0x00ffffff-no-rj",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="WION.in" tvg-logo="https://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_400x400.jpg",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="YAHOOFINANCE" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",YAHOO FINANCE
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="International News" tvg-id="YAHOO NEWS" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",YAHOO NEWS
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AndTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/%26TV_HD_%282025%29.svg",ENT | &TV HD
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AbzyDhakad.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Abzy_dhakad.jpg",ENT | Abzy Dhakad
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="BollywoodMasala.in" tvg-logo="https://a.jsrdn.com/hls/23142/bollywood-masala/logo_20240213_192946_70.png",ENT | Bollywood Masala
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ChannelY" tvg-logo="https://i.postimg.cc/4xxWq58B/image_10.jpg",ENT | Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="COLORS.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg",ENT | COLORS HD
+http://195.181.169.162/COLORS_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="India" tvg-id="DangalTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png",ENT | Dangal TV
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DANGAL2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png",ENT | DANGAL2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDBharati.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png",ENT | DD Bharati
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDNational.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",ENT | DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="E24.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/E24_new.jpg",ENT | E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="EpicTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg",ENT | Epic TV
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+#EXTINF:-1 group-title="India" tvg-id="IsharaTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Ishara_tv.png",ENT | Ishara TV
+https://epiconvh.akamaized.net/live/ishaara/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="MasalaEntertainmentPlus.in" tvg-logo="https://a.jsrdn.com/hls/23029/masala-entertainment-plus/logo_20231219_215407_68.png",ENT | Masala Entertainment Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/masala-entertainment-plus/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Nazara.in" tvg-logo="https://www.epicon.in/img/nazara-logo.png",ENT | Nazara
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="PardesiTV" tvg-logo="https://www.pardesitv.com/images/logo.png",ENT | Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India" tvg-id="SonyEntertainmentHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png",ENT | Sony Entertainment HD
+http://195.181.169.162/SONY_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="India" tvg-id="STARBHARAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Star_Bharat_2022.png",ENT | STAR BHARAT
+https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="STARBHARATHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png",ENT | STAR BHARAT HD
+https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="StarPlus.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png",ENT | Star Plus
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZEETV.tv" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo-768x432.png",ENT | ZEE TV HD
+http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="India" tvg-id="1stIndiaNews" tvg-logo="https://firstindianews.com/images/logo.png",NEWS | 1st India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AajkiKhabar" tvg-logo="https://aajkikhabar.com/wp-content/uploads/2025/02/akk-copy-2-e1740663523684.png",NEWS | Aaj ki Khabar
+https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India" tvg-id="AajTak.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png",NEWS | Aaj Tak HD
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Abp.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/ABP_News.svg",NEWS | ABP News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Bharat24.in" tvg-logo="https://a.jsrdn.com/hls/23215/bharat-24/logo_20250611_203139_70.png",NEWS | Bharat 24
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="BharatSamacharTV.in" tvg-logo="https://bharatsamachartv.com/images/logo.png",NEWS | Bharat Samachar TV
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 group-title="India" tvg-id="CNBCAwaaz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/CNBC_Awaaz_2025.svg",NEWS | CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=1272000.m3u8
+#EXTINF:-1 group-title="India" tvg-id="CNNNews18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/CNN-News_18_logo.jpg",NEWS | CNN News18
+https://amg01448-samsungin-cnnnewsnw18-samsungin-ad-gv.amagi.tv/ts-eu-w1-n2/playlist/amg01448-samsungin-cnnnewsnw18-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="DDNews.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/DD_News_new_logo_2024.jpg",NEWS | DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ETNowSwadesh.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/ET_Now_Swadesh.jpg",NEWS | ET Now Swadesh
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="IndiaDaily24x7.in" tvg-logo="https://a.jsrdn.com/hls/23225/india-daily-24x7/logo_20250618_171159_70.png",NEWS | India Daily 24x7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-daily-24x7/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="indiatoday.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg",NEWS | India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="IndiaTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg",NEWS | India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ndtvenglish" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj",NEWS | NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ndtvindia" tvg-logo="https://logodix.com/logo/2131933.jpg",NEWS | NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="India" tvg-id="NewsIndia24X7.in" tvg-logo="https://a.jsrdn.com/hls/23215/news-india-24x7/logo_20250611_205743_70.png",NEWS | News India 24X7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="News24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250430T011913SQUARE.png",NEWS | News24
+https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="News9Live.in" tvg-logo="https://a.jsrdn.com/hls/23129/news9live/logo_20250813_011629_68.jpg",NEWS | News9Live
+https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
+#EXTINF:-1 group-title="India" tvg-id="RepublicBharat.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Republic_Bharat_Rashtra_ke_Naam.jpg",NEWS | Republic Bharat
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
+#EXTINF:-1 group-title="India" tvg-id="RepublicTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg",NEWS | Republic TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+#EXTINF:-1 group-title="India" tvg-id="Times Now Navbharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png",NEWS | Times Now Navbharat
+https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="India" tvg-id="TV9Bharatvarsh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg",NEWS | TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZEEBUSINESS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg",NEWS | ZEE BUSINESS
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 group-title="India" tvg-id="ZEENews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",NEWS | ZEE News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="aurLIFE.pk" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png",ENT | aur LIFE
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="GeoKahani.pk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Geo_Kahani.png",ENT | Geo Kahani HD
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="qtv.pk" tvg-logo="https://i.supaimg.com/90382fdf-a88e-4510-a6f6-0f56aed25bc0.jpg",ENT | Q TV
+https://ap02.iqplay.tv:8082/iqb8002/@ryq7vtv/chunks.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="SuchTV.pk" tvg-logo="https://yt3.googleusercontent.com/ywkjqFzUtIcj3RS3ab-BCBoZkUyc8PGeiXBqxxCwBCwyRVGyxK5FTXuV_-FHrk9hJIQrbPO5Mw=s160-c-k-c0x00ffffff-no-rj",ENT | Such TV SD
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="tagtv.pk" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnt-zSHy_ezc-HbwHC6fsV-WkT0VobmddALhF1rO1zYF8=s160-c-k-c0x00ffffff-no-rj",ENT | Tag TV
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="WasebTV.pk" tvg-logo="https://yt3.googleusercontent.com/Jq1I-TUADvMU8g-1IPAlVpnE9CZ95oNyW1B94IlhKlJ0vqG5-oxbBqIc4E1G7Kxjo_8hneVxVg=s160-c-k-c0x00ffffff-no-rj",ENT | Waseb TV
+https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="dunya" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Dunya_News.png",NEWS | Dunya News
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1668837618_b950272.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="GNN.pk" tvg-logo="https://gnnhd.tv/_next/image?url=%2Fimages%2Fgnn-logo.png&w=640&q=75",NEWS | GNN
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/gnnnews-181/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="LahoreRang.pk" tvg-logo="https://lahorerang.tv/uploads/theme/logo-1751881025.png",NEWS | Lahore Rang
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/lhrrang-179/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="NeoNews.pk" tvg-logo="https://www.neonews.pk/uploads/theme/logo-1666868077.png",NEWS | Neo News
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="primecanada.ca" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k927GbNeWja0mF2-rg3RMfSHfehGOY8NekMiHtf7Bb2QE=s160-c-k-c0x00ffffff-no-rj",NEWS | Prime Canada TV (CA)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 group-title="Pakistan" tvg-id="TimeNews.pk" tvg-logo="https://thetimenews.tv/wp-content/uploads/2021/03/pahenji-akhbar-Logo-vector-design-File.png",NEWS | Time News
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/time-news-172/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="JALSHAMOVIEs.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png",BAN | JALSHA MOVIES HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="JALSHAMOVIEs.in@SD" tvg-logo="https://www.pngfind.com/pngs/m/73-738298_jalsha-movies-live-tv-hd-png-download.png",BAN | JALSHA MOVIES SD
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277425&extension=ts&play_token=jdvXyryY9B
+#EXTINF:-1 group-title="Movies" tvg-id="kolkatamovie.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bollywood_HD_2014_alt.svg",BAN | Kolkata Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="TaraBanglacinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjV-Uny70t-T2TsCyzzt-8mnRfkRy0VLdl6g&s",BAN | Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ZBCinema.in" tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg",BAN | ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg",BAN | ZEE BANGLA CINEMA
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="BhojpuriCinema.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png",BHOJ | Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MahuaPlay.in" tvg-logo="https://a.jsrdn.com/hls/23215/mahua-play/logo_20250429_233701_70.png",BHOJ | Mahua Play
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="azBestClassicTV.usa" tvg-logo="https://a.jsrdn.com/hls/23195/a-z-best-classic-tv/logo_20250205_004115_68.png",EN | a-z Best Classic TV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CUXB534IAMTJM7Z4BKKS/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="azClassicFlix.usa" tvg-logo="https://a.jsrdn.com/hls/23195/a-z-classic-flix/logo_20250205_005636_68.png",EN | a-z Classic Flix
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/8WOSAE6HHWJY8KP8BW2C/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="azWesternGrit.usa" tvg-logo="https://a.jsrdn.com/hls/23195/a-z-western-grit/logo_20250205_010126_68.png",EN | a-z Western Grit
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ActionHollywoodMovies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png",EN | Action Hollywood Movies
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66be944f8711311880995280.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 group-title="Movies" tvg-id="AMCTriller" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/AMC_2016.svg",EN | AMC Triller
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="amgtv.us" tvg-logo="https://img1.wsimg.com/isteam/ip/f5ca61b0-4924-46b3-93d1-5961808d44f6/Home%20no%20vignette%20low_Half2.jpg",EN | AMG TV (Classic)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="AVAFAMILY" tvg-logo="https://i.pinimg.com/736x/16/96/5a/16965ad632bc23692c8c1a946bd15f2a.jpg",EN | AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="AVASERIES" tvg-logo="https://yt3.googleusercontent.com/8htYIakRJnnyIymW9dKwuwZSYav5YND6wlQlQ-v6NelcyAmpNmOZDFAngGImtaa3O4pAVgMk6w=s72-c-k-c0x00ffffff-no-rj",EN | AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="BangBangTV" tvg-logo="https://alchetron.com/cdn/bang-bang-tv-channel-86505200-5377-43bb-ac56-4a72cc2c786-resize-750.jpg",EN | Bang Bang TV
+https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="CINELIFE" tvg-logo="https://winterfilmawards.com/wp-content/uploads/2021/03/CineLife-web.jpg",EN | CINE LIFE
+https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/cb54381b6573678e84cb3e63cef343a0f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7450db80148b61299bce8c37683f03409a5e5afba358b1ebe65a45df3ea7b61c55932f17e49f43c8814aa6d1d25e9e5e8427f54295c6f1d8db118682f3db986d965c9ccc0b07fba25dd1a37fb7d49d653898743b4e6c3a8cc1b2cd3ef702da21269cded8b6648578a630eea912529f0899448572fd0311a796932f83d7d5fb4a4032a5847f6831a9f6a985f5775cd5dc55939bbf222fe393307046c26c9244415cc1ad9b44d6837d92c7f643adce54e297b13cd56d721bbe4abb6ad64febd4fd99726646620f03bc90c3f062f626c771a4c2126e090314edd262cd88dd5127710fa8b41e854355e980cbb4d6006d9e3b5b42be34901b247cdc38694be02fd2932823dc755dcb666bbb101ea876d19460b5abd2ee037b92dbc449f026af9602c0f90fac226d0b50fda2620f0b1c3de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db49b14ad1e33ae47dad1ed3f4d73a37a655f2ae872ed1e286c5e6120/10/1920x1080_5058864/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Circle" tvg-logo="https://www.circlecountry.com/app/themes/circle-tailpress/images/circlecountry_logo.svg",EN | Circle
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="30A TV Classic Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/TCM_logo.svg",EN | Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ColorizedTV.usa" tvg-logo="https://a.jsrdn.com/hls/23195/colorizedtv/logo_20241210_234659_68.png",EN | Colorized.TV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MP47WBC6PC599RWGUECD/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ComedyClassics.usa" tvg-logo="https://a.jsrdn.com/hls/23195/comedy-classics/logo_20241119_223830_68.png",EN | Comedy Classics
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="DeathValleyDay" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",EN | Death Valley Days
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6674b68af04cf4bb9233c916.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 group-title="Movies" tvg-id="FX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png",EN | FX 1 Movies
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="FX2" tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/m9kufdwxrebnfsaade94",EN | FX2
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="GrandCinema" tvg-logo="https://grandcinema.tv/logo.png",EN | Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png",EN | Gravitas Movies
+https://d6dg3ebeih71x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jx9exbvh3yi8u/Gravitas_Movies.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Great! Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20250107T022837SQUARE.png",EN | Great! Movies
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Great! romance" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900008L9_20250307T151838SQUARE.png",EN | Great! romance
+https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBOComedy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png",EN | HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBOHits.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/HBO_Hits_2025.svg",EN | HBO Hits
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBOMovies.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg",EN | HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ION Plus" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20240702T044841SQUARE.png",EN | ION Plus
+https://d2md0hqgew2ie6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staiznrm1ejlo/Ion_Plus_US.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="LoLTV" tvg-logo="https://yt3.googleusercontent.com/wfugK-_Y4Hr89XKEAOEi2wiK8sRfqz4xvj2B_N7xEcFyiuBmcrM7519oFOnyM7aUpnXUyi5t-w=s72-c-k-c0x00ffffff-no-rj",EN | LoL TV
+https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MadeInHollywood.us" tvg-logo="https://yt3.googleusercontent.com/6w9_DUJK4Gbg_gHdsuNnx6MeOuCK3UdjjSUIyb3mExVDJIj_uulO5AIqAXIgf6avNqYP3YnarQ=s72-c-k-c0x00ffffff-no-rj",EN | Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MediacorpEntertainment" tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-english/logo_20240102_190017_70.png",EN | Mediacorp Entertainment
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MoviesNow" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg",EN | Movies Now
+http://89.187.189.98/MOVIESNOWHD/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MovieSphere" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/MovieSphere_2022_logo.svg",EN | MovieSphere
+https://mediapackage-ms-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MovieSphereUK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/MovieSphere_2022_logo.svg",EN | MovieSphere UK
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",EN | My Cinema
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MytimeMovie" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",EN | Mytime Movie
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MyTimeMovieNetworkBR" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2025/07/cropped-MT_SHOWCASE_LOGO_120x90.png",EN | MyTime Movie Network BR
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20250325T020233SQUARE.png",EN | NEW KMOVIES
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 group-title="Movies" tvg-id="OldWestTV.usa" tvg-logo="https://a.jsrdn.com/hls/23195/old-west-tv/logo_20241119_225939_68.png",EN | Old West TV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Sparkle Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ400042T1_20250107T025804SQUARE.png",EN | Sparkle Movies
+https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/playlist.m3u8?ads.wurl_channel=1019&ads.wurl_name=SparkleMovies&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="Movies" tvg-id="SRK TV" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",EN | SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="StarMoviesHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Star_Movies_HD_India.png",EN | Star Movies HD
+http://89.187.189.98/STARMOVIESHD/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="TheWalkingDeadUniverse" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/The-Walking-Dead-Logo-500x281.png",EN | The Walking Dead Universe
+https://22985209144b4ff78289fbb19f55e93e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TWDUniverseExperience/playlist.m3u8?ads.wurl_channel=565&ads.wurl_name=TWDUniverseExperience&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=sQN_f5E2o3f4xpcEPue3&ads.plex_id=5fc705ff2f220e002d5e6bce&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 group-title="Movies" tvg-id="ThreePlus1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Three_NZ_2023.svg/1024px-Three_NZ_2023.svg.png",EN | ThreePlus1
+https://mediapackage-three-plus-1-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="toonami.aftermath.movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TOONAMI-2025.svg",EN | Toonami Aftermath Movie
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="UrbanActionChannel.usa" tvg-logo="https://a.jsrdn.com/hls/23195/urban-action-channel/logo_20250205_002523_70.png",EN | Urban Action Channel
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/58XXIGAFT3S6VSMD82AP/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="AbzyMovies.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Abzy_movies.jpg",HINDI | Abzy Movies
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="B4UKadak.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg",HINDI | B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="B4UMovies.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",HINDI | B4U Movies India
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="BollywoodClassic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Bollywood_Clasic_2024.svg",HINDI | Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="BollywoodHD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bollywood_HD_2014_alt.svg",HINDI | Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Bollywood.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bollywood_HD_2014_alt.svg",HINDI | Bollywood Movie
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Bollywood2.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bollywood_HD_2014_alt.svg",HINDI | Bollywood Movie 2
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Goldmines.in" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png",HINDI | Goldmines
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="GoldminesMovies.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg",HINDI | Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="GoldminesMovies2.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg",HINDI | Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MovieOne.pk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Movie_One_HD.svg",HINDI | Movie One
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/movie-one-176/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png",HINDI | NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ShemarooBollywood.in" tvg-logo="https://a.jsrdn.com/hls/23141/shemaroo-bollywood/logo_20240206_185308_68.png",HINDI | Shemaroo Bollywood 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png",HINDI | South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="StarGold2HD" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold2hd.png",HINDI | Star Gold 2 HD
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="StarGoldHD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",HINDI | Star Gold HD
+https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3172
+#EXTINF:-1 group-title="Movies" tvg-id="StarGoldSelect HD" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png",HINDI | Star Gold Select HD
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Zee Amol Cinema" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",HINDI | Zee Amol Cinema
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ZEEBOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Zee_Bollywood_%282025%29.svg",HINDI | ZEE BOLLYWOOD
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ZEECINEMA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Zee_Cinema_2017_old.png",HINDI | ZEE CINEMA HD
+http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Movies" tvg-id="KMovies" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",KR | KMovies
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="BoxCinama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg",OTHER | Box Cinama
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="DuniaSinema.ml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png",OTHER | Dunia Sinema (Malaysia)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="KCine.pt" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/K%2B_Cine_2024.svg/",OTHER | K Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MovieDomeFamily" tvg-logo="https://yt3.googleusercontent.com/VxlYQBBWs-gQUX5LJZDrG63VFpKNmt7BBnPjd9143b38YQUIR5toM2_6BNZi9RMjvq_-rfzOHXI=s72-c-k-c0x00ffffff-no-rj",OTHER | Movie Dome Family
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="SL1" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",OTHER | SL1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="USBD42000073E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20250520T211334SQUARE.png",60 Days In by A&E
+https://d2b8jic9gadlvy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kvf8znfz3byu4/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="AmazingDiscoveriesTV" tvg-logo="https://www.adventisttv.org/assets/img/main/ADTV.png",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="American Crimes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20250520T005300SQUARE.png",American Crimes
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65492fc7056b9700088560b5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a780-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3ce66776-1850-472a-aae6-67709c1b0532
+#EXTINF:-1 group-title="Educational" tvg-id="US3300010F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300010F5_20250915T233915SQUARE.png",Ancient Aliens
+https://d3b6a5tp9s4ibt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-53xuhdrfd4e8a/v1/ae_networks_ancientaliens_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="AnimalPlanet" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/dc/Animal_Planet_2008.svg",Animal Planet
+http://195.189.60.31:8003/play/a0gk/index.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="ANIMALPLANT.in" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png",ANIMAL PLANT HD
+https://live.dinesh29.com.np/stream/jiotvplus/animalplanethdworld/master.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="GB2700011DR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700011DR_20250107T031058SQUARE.png",Ax Men
+https://bcadcc64.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BeE1lbl9ITFM/playlist.m3u8?ads.wurl_channel=1634&ads.wurl_name=AxMen&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="Educational" tvg-id="BBCEarth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
+http://89.187.189.98/BBCEARTHHD/index.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="BBC Earth US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/BBC_Earth_circle.png",BBC Earth US
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="CGTNDocumentary.cn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg",CGTN Documentary
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Choppertown" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/71a84f5d-8c67-4d54-8a82-7854b9227914",Choppertown
+https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Crime & Justice" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD260000189_20250107T030614SQUARE.png",Crime & Justice
+https://d1vsdt3c2xcxl2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h309rib7av3rk/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Crime Scene TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN24000030L_20250811T033443SQUARE.png",Crime Scene TV
+https://d1si3n1st4nkgb.cloudfront.net/10502/89001003/hls/master.m3u8?ads.xumo_channelId=89001003&ads.xumo_streamId=89001003&ads.caid=Indigenius&ads.csid=samsungtvplus_in_indigeniuscrimescenetv_ssai&ads.sfid=&ads.afid=Indigenius&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=IN&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1101&ads.xumo_contentName=Indigenius&ads.xumo_providerId=1101&ads.xumo_providerName=Indigenius&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=indigeniuscrimescenetv_in&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 group-title="Educational" tvg-id="Deadly Women: powered by Banijay" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4900001NW_20250811T172507SQUARE.png",Deadly Women: powered by Banijay
+https://d1mgh147xpmgs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c1w8i9yzp8w93/DeadlyWomen_GB.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="DiscoverPakistanTV" tvg-logo="https://www.discoverpakistan.tv/assets/dp-logo-DEj6gG6U.png",Discover Pakistan TV
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="DOCUMENT",DOCUMENT
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="DocumentaryPlus" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20231219_193112_63.png",Documentary+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="DocumentaryPlus" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20231219_193112_63.png",Documentary+ 2
+https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="edenPLUS1" tvg-logo="https://freeviewnz.tv/Media/w12nmsps/018-edenplus1-red.png",eden+1
+https://i.mjh.nz/.r/eden-plus1.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="672a67138e0fe64b11195701" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c",Escape TV
+https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Get.Factual" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700001R6_20250107T031122SQUARE.png",Get.Factual
+https://d1nhni5l2n8hjt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rzh07me7cf8x7/gf.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Heritage+" tvg-logo="https://static.12core.net/media/content/stream/07322366-d621-49bb-95f8-85e55b22022f/e8af698da12cf0c8f033d0bbe02054cf",Heritage+
+https://amg02132-sofast-heritage-samsungin-arawj.amagi.tv/ts-eu-w1-n2/playlist/amg02132-sofast-heritage-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Home_%26_Garden_Television.svg",HGTV
+https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Highway Thru Hell : Powered by Banijay" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500001HY_20250107T030655SQUARE.png",Highway Thru Hell : Powered by Banijay
+https://duplpbng64yvf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zep04k6ngk3x6/HighwayThruHell.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="GBBA2200005ZA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20250107T022602SQUARE.png",History Hit
+https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="House of Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600004HW_20250416T005413SQUARE.png",House of Crime
+https://cc-y2z89muounal4.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y2z89muounal4/IQJW/WBD/HouseOfCrime_IN/HouseOfCrime_IN.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="IDG" tvg-logo="https://a.jsrdn.com/hls/22751/idg/logo_20231219_214050_68.png",IDG
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/idg/master.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="INFAST" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20250513T012654SQUARE.png",INFAST
+https://d30jgtzu0azlqq.cloudfront.net/playlist/samsungus-insighttv/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Inside Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500002R4_20250107T030707SQUARE.png",Inside Crime
+https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="INWILD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20250107T022608SQUARE.png",INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Law & Crime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20241112T000924SQUARE.png",Law & Crime
+https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawandCrime&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="Educational" tvg-id="Love the Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500001F5_20250722T005724SQUARE.png",Love the Planet
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Mayday: Air Disaster" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB28000063B_20250811T172943SQUARE.png",Mayday: Air Disaster
+https://d1vx4007e1im6x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dky7xycz2xs4b/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="MilitaryTimes" tvg-logo="https://a.jsrdn.com/hls/22930/militarytimes/logo_20231219_215521_36.png",MilitaryTimes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Mysteries Xplored" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20250325T015240SQUARE.png",Mysteries Xplored
+https://dwqz6akge0ila.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lw48tj5rg6t4f/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Mystery TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD50000320_20250107T030722SQUARE.png",Mystery TV
+https://amg00841-aenetworksukane-mysterytv-samsunguk-mggb7.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-mysterytv-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Mythbusters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200005LI_20250107T031155SQUARE.png",Mythbusters
+https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="NATIONALGEOGRAPHIC" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/1/1f/National_Geographic_HD_%282016-.n.v.%29.png",NAT GEO HD Tamil
+http://dream4k.org:80/play/live.php?mac=00:1A:79:C5:AB:A5&stream=277422&extension=ts&play_token=oEN0X1gPSK
+#EXTINF:-1 group-title="Educational" tvg-id="USBD1200007FE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Popular Science" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288",Popular Science
+https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="GBBD500005ZG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500005ZG_20250107T030744SQUARE.png",Robot Wars by Mech+
+https://0a644b20819046a0935afa1cf6debf23.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_MechPlus/playlist.m3u8?ads.wurl_channel=1413&ads.wurl_name=MechPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="Educational" tvg-id="Safari TV" tvg-logo="https://www.news.keralatv.in/media/2018/11/Safari-Television-Added-on-Sun-Direct-692x376.jpg",Safari TV Tamil
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Survivor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800007BN_20250107T025810SQUARE.png",Survivor
+http://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="US700011JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700011JL_20250819T224358SQUARE.png",The UnXplained with William Shatner
+https://dlaqy0dpllczo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gu7qi6du7nm2i/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="GBBD1100007AC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100007AC_20250107T030816SQUARE.png",True Crime UK
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8?ads.wurl_channel=1151&ads.wurl_name=TrueCrimeUKfromCBSReality&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="Educational" tvg-id="TrueHistory" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/logo_20231219_223655_68.png",True History
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="USBB10000047W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20240520T214719SQUARE.png",Unidentified
+https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="WaterBear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20250107T025835SQUARE.png",WaterBear
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/ts-eu-w1-n2/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Warner Bros TV Deadliest Catch" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",WB TV Deadliest Catch
+https://mediapackage-azf2-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Warner Bros TV House Hunters" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",WB TV House Hunters
+https://mediapackage-azf6-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Warner Bros TV Motorheads" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",WB TV Motorheads
+https://mediapackage-azf1-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Warner Bros TV Paranormal" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",WB TV Paranormal
+https://mediapackage-azf5-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Warner Bros TV True Crime" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",WB TV True Crime
+https://mediapackage-azf4-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="WeatherSpy" tvg-logo="https://weatherspy.net/icon.png",Weather Spy
+https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Wheel World" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000250_20250416T020410SQUARE.png",Wheel World
+https://cc-ii7599ywyixac.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ii7599ywyixac/IQJW/WBD/WheelWorld_IN/WheelWorld_IN.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="WildEarth" tvg-logo="https://wildearth.tv/wp-content/uploads/2024/11/WE-LOGO-2025-WHITE-WEB-1.png",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Wild Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png",Wild Flix Hindi
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="US700010XK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700010XK_20250915T233927SQUARE.png",Witness to Justice
+https://dxwldsv8fdzik.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l2dz2a7mdvmzc/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="Wonder" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kpdwclVeOKtinypabEccGw0gWkzRIP38a7W2FBiHHc44k=s72-c-k-c0x00ffffff-no-rj",Wonder
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="World War TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20250527T014801SQUARE.png",World War TV
+https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Educational" tvg-id="XXTreme Jobs Hindi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000011Q_20250205T004626SQUARE.png",XXTreme Jobs Hindi
+https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="AFNTV" tvg-logo="https://static.wikitide.net/avidwiki/thumb/2/21/AFN_Kwajalein_%282000%29_%28credit_-_KaneStar%29.png/400px-AFN_Kwajalein_%282000%29_%28credit_-_KaneStar%29.png",AR | AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="amc.us" tvg-logo="https://play-lh.googleusercontent.com/MYcrmTg-2FfK3mVvNsjttNsXXTLfUG7i3QjMd0fzticooxMwLMK0NQdyQSMnF0iC9lg",AR | AMC
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="ArabicSong",AR | Arabic Song
+https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="ArabicaMusic" tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/cropped-Arabica-tv-Logo-1.png",AR | Arabica Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="MPlus.sa" tvg-logo="https://images.seeklogo.com/logo-png/28/1/m-design-logo-png_seeklogo-285925.png",AR | M+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="MajidAlMohandis.sa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Majid_2020.png",AR | Majid Al Mohandis
+https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="SEETV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/See_TV_2022.png",AR | SEE TV
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SeeTV-156/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="SUNMUSIC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-black.png",AR | SUN MUSIC
+https://hls.sunmusic.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="BanglaSongs" tvg-logo="https://i.postimg.cc/cJXWTvcW/Bangla-Songs.jpg",BAN | Bangla Songs
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="dhoommusic.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Dhoom_Music_Bangla_logo_%282014%29.png",BAN | DHOOM MUSIC
+https://cdn-1.pishow.tv/live/1456/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="montvmusic.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Mon_Music_HD_2023.png",BAN | Mon TV Music
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="sangeetbangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png",BAN | SANGEET BANGLA
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/541.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="ZBMusic.in" tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg",BAN | ZB Music
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="BengaliBeats" tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png",Bengali Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="4ACETVCLASSICHITS" tvg-logo="https://a.jsrdn.com/hls/23195/4acetv-classic-hits/logo_20241125_202430_70.png",EN | 4ACETV CLASSIC HITS
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="AcademyTV" tvg-logo="https://yt3.googleusercontent.com/_IwJvvl4dF9eFwXh4Xv7z9mutXZq6zFxmzIMkcWUopI08EFt1PfkFD36Y08kJKu-uys2m5nr2-s=s72-c-k-c0x00ffffff-no-rj",EN | Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="CaliforniaMusicChannel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/CMC_logo.png",EN | California Music Channel
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="CMT Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/CMT_1988.svg",EN | CMT Music
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2500002K0_20250107T031108SQUARE.png",EN | Cool Summer Channel
+https://d2hzqddebd4oer.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-468m04kfpf5n7/csts.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Def Jam" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20250107T030629SQUARE.png",EN | Def Jam
+https://d1t9jj3kgy7bur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m84lyt8jpwc3r/gigs.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="ELECTRO" tvg-logo="https://www.electricnow.tv/themes/custom/elec/electricnow/logo.png",EN | ELECTRO
+https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="FEVAMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/FEVA_TV_logo.png/250px-FEVA_TV_logo.png",EN | FEVAMusic
+https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Flashback" tvg-logo="https://flashbacktv.vip/assets/img/logo-header.svg",EN | Flashback
+https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="GreenChilliesTV.in" tvg-logo="https://a.jsrdn.com/hls/23179/green-chillies-tv/logo_20240627_214400_70.png",EN | Green Chillies TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="GROOVE" tvg-logo="https://res-3.cloudinary.com/synchtank-com/image/upload/s--Ebr_Rcvg--/c_fill,f_auto,g_auto,h_500,w_500/q_auto:eco/object-248613959.jpg",EN | GROOVE
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="HTV.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/HTV_alt.png",EN | HTV
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="KronehitHD" tvg-logo="https://smotret.tv/images/kronehit-tv.webp",EN | Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="M20Music" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/298/radio-m2o.24a4d505.jpg",EN | M20 Music
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Moba" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | Moba
+https://muzzik-live.morescreens.com/mts-2/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="MTVBiggestPop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/MTV-2021.svg",EN | MTV Biggest Pop (USA)
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="MTV Originals (Spain)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Yo%21_MTV_Raps_1987.svg",EN | MTV Yo!
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
+#EXTINF:-1 group-title="Music" tvg-id="MUZZIK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Muzzik1996.png",EN | MUZZIK
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NOW70s" tvg-logo="ahttps://static.wikia.nocookie.net/logopedia/images/b/b9/NOW_70s_2022.png",EN | NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NOW80s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/NOW_80s.png",EN | NOW 80's
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="NowRock" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="oMusic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Google_play_music.png",EN | O Music
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="OxygenMusic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg",EN | Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="PlayTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PlayTV2006.svg",EN | Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="PopStar" tvg-logo="https://video.popstaronline.com/wp-content/uploads/2024/03/Popstar-Logo_NEW_v10_sq.png",EN | Pop Star
+https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="PopstarTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/PopStar_%282018%29.png",EN | Popstar! TV
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Rock&Roll" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="RockolaTelevision" tvg-logo="https://a.jsrdn.com/hls/23195/rockola-television/logo_20250109_231904_70.png",EN | Rockola Television
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/RHT6XGG6VHZA0P8T1MGX/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="CARAC1" tvg-logo="https://www.livehdtv.com/uploads/kanal/23770carac1.png",EN | Rouge TV [Switzerland]
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="USBD3300022QK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20250630T232443SQUARE.png",EN | Stingray Remember the 80s
+https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="SUPERTVMedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Super_TV_logo.png",EN | SUPER TV Media
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="SurfRootsTV" tvg-logo="https://a.jsrdn.com/hls/23139/surf-roots-tv/logo_20240523_220440_70.png",EN | Surf Roots TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Tik Tak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/TikTak1989logo.png",EN | Tik Tak
+https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TRACEUK" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png",EN | TRACE UK
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TraceUrban" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Trace_Urban.svg",EN | Trace Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="V2BEAT" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="V2Beat" tvg-logo="https://www.vibee.tv/wp-content/uploads/2025/06/viib-v2beat-logo-neon-1280-x-720.jpg",EN | V2Beat
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Vevo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0elivestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="Vevo '70s" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | Vevo '70s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="GBBD1900009UD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png",EN | Vevo '70s & '80s
+https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Vevo'80s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo '80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="Vevo'90s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo '90s
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="Vevo90s00s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo '90s & '00s
+https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-rakutenit/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Vevo 2K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo 2K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="Vevo Country" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | Vevo Country
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="Vevo Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eeelivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="Vevo R&B" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo R&B
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0elivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="Vevo True School Hip-Hop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg",EN | Vevo True School Hip-Hop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53elivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Music" tvg-id="XITE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Xite_2017.svg",EN | XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="XITE 80s Flashback" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | XITE 80s Flashback
+https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="XITE 90s Throwback" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | XITE 90s Throwback
+https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="XITEHits" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Xite_2013.svg",EN | XITE Hits
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="XITE Just Chill" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | XITE Just Chill
+https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="XITERockOn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Xite_2013.svg",EN | XITE Rock On
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="ZZ TV" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",EN | ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="7XPANJABMUSIC" tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/320x180/880c1e6e-62cd-4632-b5f9-c5b34e14da61.jpg",HI | 7X PANJAB MUSIC
+https://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="9XJalwa.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/9x_Jalwa.png",HI | 9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="9XM.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/9x_media.png",HI | 9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/9f1a3d57-4134-4f4c-95ea-2cb142ac63f8/0.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="B4UMusic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png",HI | B4U Music India
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/1.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="BalleBalle.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Balle_Balle.jpeg",HI | Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="BritAsiaTV" tvg-logo="https://a.jsrdn.com/hls/22693/britasiatv/logo_20231219_185045_64.png",HI | BritAsiaTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Dabangg.in" tvg-logo="https://a.jsrdn.com/hls/23199/dabangg/logo_20250324_190201_63.png",HI | Dabangg
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="HaryanaBeat.in" tvg-logo="https://a.jsrdn.com/hls/22994/haryana-beat/logo_20241127_213000_70.png",HI | Haryana Beat
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="HindiHits.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HITS-RADIO-2024.svg",HI | Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="IsaiAruvi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg",HI | Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Jalwa.pk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/9x_Jalwa.png",HI | Jalwa
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="JooMusic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png",HI | Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Maiboli.in" tvg-logo="https://a.jsrdn.com/hls/22973/maiboli/logo_20231219_215344_67.png",HI | Maiboli
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Mastiii.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Mastiii_2023.jpg",HI | Mastiii
+https://sabliveyupp.akamaized.net/mastii/mastii_poc_800k.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="MUSICINDIA.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg",HI | MUSIC INDIA HD
+https://portal-to-m3u-07.iptv07india.workers.dev/?id=3131
+#EXTINF:-1 group-title="Music" tvg-id="NH BollyRaga" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png",HI | NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="PitaaraTV.in" tvg-logo="https://a.jsrdn.com/hls/23049/pitaara-tv/logo_20231219_220959_63.png",HI | Pitaara TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="PunjabiHits.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Punjabi_Hits.jpg",HI | Punjabi Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="SagaMusic.in" tvg-logo="https://a.jsrdn.com/hls/23146/saga-music/logo_20240322_183949_68.png",HI | Saga Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/5e027b28-fb0e-49cc-9962-44babcc450ce/0.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="8Xmusic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/ShowBox_logo.jpeg",HI | ShowBox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StarMAAMUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/StarMaa_Music.jpg",HI | Star MAA MUSIC
+https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="SUNMUSICHD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg",HI | SUN MUSIC HD
+https://live.dinesh29.com.np/stream/jiotvplus/sunmusichd/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TabbarHits.in" tvg-logo="https://a.jsrdn.com/hls/23196/tabbar-hits/logo_20241119_184505_70.png",HI | Tabbar Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="YRFMusic.in" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png",HI | YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="YRFMusicHD" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png",HI | YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Zoom.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zoom_2018_logo.jpg",HI | Zoom
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="CMCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/CMC_TV.svg",HR | CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TraceLatino" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",LT | Trace Latino
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="1Mus" tvg-logo="https://i.postimg.cc/RFrMsR7Y/download-1.jpg",OTHER | 1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="4FunTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png",OTHER | 4 Fun TV
+https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="4ACETV" tvg-logo="https://a.jsrdn.com/hls/23195/4acetv/logo_20241125_195233_70.png",OTHER | 4ACETV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Afrobeats" tvg-logo="https://yt3.googleusercontent.com/_6TcpCK4f6BfoKArtanMuzYMWt9h2syEw3yb_5DEx-Ih0Qf8VU7q5B8vh-FV1iJxXA1jL8o0wPo=s72-c-k-c0x00ffffff-no-rj",OTHER | Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="AtomicTV(Romania)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Atomic_TV_%282022%29.svg",OTHER | Atomic TV (Romania)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="HITSMEXICANOS" tvg-logo="https://a.jsrdn.com/hls/23195/hits-mexicanos/logo_20250109_231027_70.png",OTHER | HITS MEXICANOS
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Jeka" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",OTHER | Jeka
+https://muzzik-live.morescreens.com/mts-4/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="la-bocina-latina" tvg-logo="https://a.jsrdn.com/hls/23040/la-bocina-latina/logo_20231219_214948_65.png",OTHER | La Bocina Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="MAD" tvg-logo="https://tvchannels4all.com/tvonline/madtv.png",OTHER | MAD
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="MUZZIKMIX" tvg-logo="https://static.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/Muzzik_mix_250x250.png",OTHER | MUZZIK MIX
+https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="MUZZIKSEE" tvg-logo="https://static.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/Muzzik_mix_250x250.png",OTHER | MUZZIK SEE
+https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="PMCRoyale.ae" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png",OTHER | PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Q MUSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Qmusic.svg",OTHER | Q MUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="RadionorbaTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/8/80/Radionorba_tv_logo_2021.png",OTHER | Radio Norba Tv
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Sense" tvg-logo="http://sense.tv/wp-content/uploads/2020/03/sense_white.png",OTHER | Sense
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Teleritmo" tvg-logo="https://d60d34ithxz8n.cloudfront.net/us-logos/94a358accfbdcb772eb78f3a592903f8.png",OTHER | Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TRACEBrazuca" tvg-logo="https://a.jsrdn.com/hls/23073/trace-brazuca/logo_20231219_223457_68.png",OTHER | TRACE Brazuca
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TRACELatina" tvg-logo="https://a.jsrdn.com/hls/23073/trace-latina/logo_20231219_223517_68.png",OTHER | TRACE Latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="WORLDWIDEMUZZIK" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",OTHER | WORLD WIDE MUZZIK
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="RU.TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/RU.TV_%282023%29.webp",RU | RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="KralPop" tvg-logo="https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png",TR | Kral Pop (Turkey)
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TopTV" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",TR | Top TV
+http://74.208.199.212:8081/TopTV/live/chunks.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TRTMUZIK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/TRT_M%C3%BCzik_logo.svg",TR | TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Vevo Hip Hop & R&B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png",Vevo Hip Hop & R&B
+https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8
+#EXTINF:-1 group-title="International" tvg-id="AfroLandTV.us" tvg-logo="https://www.afrolandtv.com/themes/custom/alt/afrolandtv/logo.png",AfroLandTV
+https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:-1 group-title="International" tvg-id="America's Got Talent" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png",America's Got Talent
+https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8
+#EXTINF:-1 group-title="International" tvg-id="American Idol" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250610T011245SQUARE.png",American Idol
+https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2mt12zhezzrsh/AmericanIdol_GB.m3u8
+#EXTINF:-1 group-title="International" tvg-id="Antiques Road Trip" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000387J_20250624T021653SQUARE.png",Antiques Road Trip
+https://d3v8uchko88gmi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9435fptcvdedz/PBSART_GB.m3u8
+#EXTINF:-1 group-title="International" tvg-id="GBBB1600006RS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1600006RS_20250107T022522SQUARE.png",Are We There Yet?
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="BBCAmerica.us@East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/BBC_America_2015_%28Square%29.svg",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="BBC Lifestyle" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg",BBC Lifestyle
+http://stvlive.net:8080/bbclifestyle/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="International" tvg-id="Bon Voyage" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400004WL_20250820T005408SQUARE.png",Bon Voyage
+https://d1si3n1st4nkgb.cloudfront.net/10502/89001004/hls/master.m3u8?ads.xumo_channelId=89001004&ads.xumo_streamId=89001004&ads.caid=Indigenius&ads.csid=samsungtvplus_in_bonvoyage_ssai&ads.sfid=&ads.afid=Indigenius&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=IN&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1101&ads.xumo_contentName=Indigenius&ads.xumo_providerId=1101&ads.xumo_providerName=Indigenius&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=bonvoyage_in&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 group-title="International" tvg-id="Cook & Bake" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20250205T004558SQUARE.png",Cook & Bake
+https://cc-swbj49v56imaw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swbj49v56imaw/OTM/OTM_Cooking-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="4newyork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/WNBC_%282023%29.svg",EN | 4 New York
+http://208.86.19.13:81/102.stream/index.m3u8
+#EXTINF:-1 group-title="International" tvg-id="AtticaTV.gr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/attica-tv-gr.png",EN | ATTICA
+https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="KMBYLD5.us" tvg-logo="https://image.roku.com/developer_channels/prod/472f2e26dc950959f63588a3bf6bde9c27f6b9cbb2d028406f5e724fe2bf4b17.png",EN | Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="BratTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png",EN | Brat TV
+https://d14l10e3k15i6k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8qhn23nsa9o2l/Brat_TV.m3u8
+#EXTINF:-1 group-title="International" tvg-id="Bravo.PLUS.1.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/bravo-plus-nz.png?raw=true",EN | Brave +1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 group-title="International" tvg-id="Channel31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Channel_31_logo_2020.png",EN | Channel 31
+https://i.mjh.nz/.r/c31.m3u8
+#EXTINF:-1 group-title="International" tvg-id="Channel44" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/44_Adelaide_2015-.png",EN | Channel 44
+https://i.mjh.nz/.r/c44.m3u8
+#EXTINF:-1 group-title="International" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true",EN | CINEMAX MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="International" tvg-id="Drool" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",EN | Drool
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 group-title="International" tvg-id="DubaiOne.ae" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-ar/dubaione-logo.png",EN | Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="FashionTVAsiaHD" tvg-logo="https://cdn.marschannels.com/files/channel_settings/img/1637571920876.svg",EN | FashionTV Asia HD
+https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/bd8f1eaade6782c3ad8c6916f840f89052a2c590/700a192f4d09363.m3u8
+#EXTINF:-1 group-title="International" tvg-id="fox.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Fox_2019.svg",EN | Fox
+http://208.86.19.13:81/103.stream/index.m3u8
+#EXTINF:-1 group-title="International" tvg-id="fox2.us" tvg-logo="https://fox2now.com/wp-content/uploads/sites/14/2020/02/cropped-FOX2NOW.png",EN | Fox 2
+http://208.86.19.13:81/106.stream/index.m3u8
+#EXTINF:-1 group-title="International" tvg-id="GlobalToronto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Global_TV_2019.svg",EN | Global Toronto
+http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
+#EXTINF:-1 group-title="International" tvg-id="HBO.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",EN | HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 group-title="International" tvg-id="my9.us" tvg-logo="https://cdn.titantv.com/i4fXAxGXCj88NotOCDfyK-YZKL1vqYrc0fXzRxmrvPg.png",EN | My 9
+http://208.86.19.13:81/105.stream/index.m3u8
+#EXTINF:-1 group-title="International" tvg-id="RedCarpetTVInternational.pl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Red_Carpet_TV.svg",EN | Red Carpet TV International
+https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+#EXTINF:-1 group-title="International" tvg-id="SaudiaRadio.sa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Saudia_Radio_Logo_2024.png",EN | Saudia Radio
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="TVBRICSEnglish.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/TV_BRICS.svg",EN | TV BRICS English
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500004YN_20250408T021359SQUARE.png",H2O & Friends
+https://dprx6ugrwz23t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3dd1mb493xhhl/H2O_Friends_GB.m3u8
+#EXTINF:-1 group-title="International" tvg-id="Hot Ones" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4600001W9_20250107T031126SQUARE.png",Hot Ones
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896039/hls/master.m3u8?ads.xumo_channelId=88896039&ads.xumo_streamId=88896039&ads.caid=filmrisehotones&ads.csid=samsungtvplus_uk_filmrisehotones_ssai&ads.sfid=&ads.afid=filmrisehotones&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=UK&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=filmrise&ads.xumo_providerId=260&ads.xumo_providerName=filmrise&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=hotones_gb&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 group-title="International" tvg-id="IN2700003S1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2700003S1_20241016T011405SQUARE.png",Nosey
+https://bc744a85.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9Ob3NleV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="AfroturkTV.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Afroturk-agro-tv-tr.png",OTHER | Afroturk TV
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="Telemundo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Telemundo_2018.svg",OTHER | Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1 group-title="International" tvg-id="OutdoorChannel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="QVCUK.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg",QVC UK
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
+#EXTINF:-1 group-title="International" tvg-id="TaiwanPlus" tvg-logo="https://www.taiwanplus.com/assets/img/download-app-logo.svg",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_3/chunklist.m3u8
+#EXTINF:-1 group-title="International" tvg-id="Tipping Point" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300002AI_20250107T031257SQUARE.png",Tipping Point
+https://d3qecywadovut1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mzbml32mpwf83/TippingPointPoweredbyBanijay_GB.m3u8
+#EXTINF:-1 group-title="International" tvg-id="TVRIWorld" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="International" tvg-id="Wipeout Xtra Powered by Banijay" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000001QB_20250107T030832SQUARE.png",Wipeout Xtra Powered by Banijay
+https://d36nnn435goed2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skhf82opa3tf4/WipeoutXtraPoweredbyBanijay_GB.m3u8
+#EXTINF:-1 group-title="International" tvg-id="YoungHollywood" tvg-logo="https://younghollywood.com/templates/yh2016/images/logo.png",Young Hollywood
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-id="4KTravel" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/logo_20231219_183416_68.png",4K Travel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 group-title="Travel" tvg-id="Carbon TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4716808f-c4c0-4acc-b305-72f1d9c4da38",Carbon TV
+https://amg00585-amg00585c15-freelivesports-emea-5932.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-carbontv-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-id="DroneTV" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png",DroneTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-id="Life+Style" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400001L0_20250811T033504SQUARE.png",Life+Style
+https://d1si3n1st4nkgb.cloudfront.net/10502/89001001/hls/master.m3u8?ads.xumo_channelId=89001001&ads.xumo_streamId=89001001&ads.caid=Indigenius&ads.csid=samsungtvplus_in_lifeplusstyle_ssai&ads.sfid=&ads.afid=Indigenius&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=IN&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1101&ads.xumo_contentName=Indigenius&ads.xumo_providerId=1101&ads.xumo_providerName=Indigenius&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=lifeplusstyle_in&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:-1 group-title="Travel" tvg-id="POWERtubeTV" tvg-logo="https://a.jsrdn.com/hls/23064/powertube-tv/logo_20250617_213124_70.png",POWERtube TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powertube-tv/master.m3u8
+#EXTINF:-1 group-title="Travel" tvg-id="TheBoatShow" tvg-logo="https://a.jsrdn.com/hls/22706/the-boat-show/logo_20231219_223008_70.png",The Boat Show
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8
+#EXTINF:-1 group-title="Travel" tvg-id="TravelXPEnglish.eu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",Travel XP English EU
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-id="TravelXPEnglish.nz" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png",Travel XP English NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-id="ViajarTV" tvg-logo="https://a.jsrdn.com/hls/23195/viajar-tv/logo_20250102_223334_36.png",Viajar TV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="BeiNSportsExtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",--Live(beIN SPORTS XTRA)--
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Europe Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_1_%28II%29.svg",--Live(Euro Sport 1)--
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="EuropeSports2HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg",--Live(Euro Sport 2)--
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="LIVEFOOTBALL",--Live(FOOTBALL)--
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Live%21_logo.png",--Live(RTA Sports[Afghan])--
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/01.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sony sports 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png",--Live(Sony sports 5)
+http://stvlive.net:8080/sonyten5/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="sonyten5.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",--Live(Sony Ten 5 HD)--
+http://stvlive.net:8080/sonyten5/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sport 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Sport1_CEE_%282020-present%29.svg",--Live(Sport 1 HD)--
+http://178.23.88.55/Sport1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="starsports1hd.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png",--Live(Star Sports 1 HD)--
+http://supersonictv.live:8080/live/Bobby1/Bobby1/85564.ts
+#EXTINF:-1 group-title="Sports" tvg-id="Star Sports 1 Hindi" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png",--Live(Star Sports 1 Hindi)--
+http://stvlive.net:8080/starsports1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="starsportsselect1.in" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png",--Live(STAR SPORTS SELECT 1 HD)--
+http://stvlive.net:8080/starselect1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="starsportsselect1.in" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png",--Live(STAR SPORTS SELECT 2 HD)
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TSPORTS.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png",--Live(T Sports HD)--
+http://stvlive.net:8080/tsports1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ToffeeSportsHD" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png",--Live(Toffee Sports HD)--
+http://103.73.107.122:3255/TSportsHD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="WillowExtraHD" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",--Live(Willow Sports HD)--
+http://filex.tv:8080/live/Multicity/1234/52109.ts
+#EXTINF:-1 group-title="Sports" tvg-id="CricketGold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png",CR | Cricket Gold
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 group-title="Sports" tvg-id="FoxCricket501" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg",CR | Fox Cricket 501 HD
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sony sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png",CR | Sony sports 1
+https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SonySports-3HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",CR | Sony Sports 3 HD
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276739&extension=.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="starsports1hindi.in" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png",CR | Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="STARSPORTS2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg",CR | STAR SPORTS 2
+https://live.dinesh29.com.np/stream/jiotvplus/starsports2/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="starsports2hd.in" tvg-logo="https://static.epg.best/in/StarSports2.in.png",CR | Star Sports 2 HD
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="WILLOWHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Willow_HD_2023.svg",CR | WILLOW HD
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ddsports.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg",CR+MIX | DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ArenaSports1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Arena_Sport_1.png",FB | Arena Sports 1
+http://178.23.88.55/Arena_sport/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="BleavFootball" tvg-logo="https://a.jsrdn.com/hls/23091/bleav-football/logo_20231219_184637_64.png",FB | Bleav Football
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bleav-football/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="DubaiSports3" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",FB | DubaiSports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FIFA+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",FB | FIFA+
+https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Goal TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3b9ff291-5825-4cd3-b8f0-5d03a3f1e3c1",FB | Goal TV
+https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="M-Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/M-Sport_%28logo%29.png",FB | M-Sports HD
+http://live.matribhumitv.com/matribhumi-sports/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="OmanSportsTV" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/oman-tv-sport.png",FB | Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sony sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Sony_Sports_Network.jpg",FB | Sony sports 2
+https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Dubai Sports 2" tvg-logo="https://www.dubaisports.ae/content/dam/Common/brands1/dubaisports.png",FB+MIX | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="dubaisports3.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Dubai_Sports_Logo_in_2023.png",FB+MIX | Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="skysports5.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg",FB+MIX | Sky Sports 5
+https://a1xs.vip/700035
+#EXTINF:-1 group-title="Sports" tvg-id="Boxing TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/f15d93b4-edde-4342-bbc6-af669fda2213",FIGHT | Boxing TV
+https://bbb-bxntv-freelivesports.otteravision.com/bbb/bxntv/bxntv.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FIGHT NETWORK" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7",FIGHT | FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Lucha Plus" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90",FIGHT | Lucha Plus
+https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="MMAJunkie" tvg-logo="https://a.jsrdn.com/hls/22814/mma-junkie/logo_20231219_215607_30.png",FIGHT | MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="MMA TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7",FIGHT | MMA TV
+https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="MVMT Culture" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/98403785-3bba-4f7d-bee8-0eada4d790c8",FIGHT | MVMT Culture
+https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="PeakFighting" tvg-logo="https://a.jsrdn.com/hls/23195/peak-fighting/logo_20250422_184955_68.png",FIGHT | Peak Fighting
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/WHO7DFHIX4DBKUFBSGIY/hls3/now,-1m,15s/m.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="US350000231" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000231_20241119T020436SQUARE.png",FIGHT | PFL
+https://d2w9b8sam7j3zv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="TNA Wrestling Channel" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404",FIGHT | TNA Wrestling Channel
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="US2900017P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png",FIGHT | UFC
+https://d4bw595q7gr11.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-akprg1v4e75t9/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="wwe.in" tvg-logo="https://brandslogos.com/wp-content/uploads/images/wwe-logo.png",FIGHT | WWE
+https://smart.bengaldigital.live/WWE/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Golf Network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842",GOLF | Golf Network
+https://streams2.sofast.tv/ptnr-sportstribal/genre-Sports/lang-English/ctgr-Sport/title-Golf_Network/sofastplayout/b7500c3f-bd94-4725-abfd-2644e004132c/manifest.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Golf News Network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/53aee32e-de8f-4c66-b838-17fe2494d2d2",GOLF | Golf News Network
+https://amg18570-amg18570c1-freelivesports-emea-5535.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg18570-golfnewsnetwork-golfnewsnet-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="GOLFPASS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png",GOLF | GOLFPASS
+https://d2icntm6fhxrry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-egqimi4i6n3rh/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Unbeaten" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c",GOLF | Unbeaten (Worldwide)
+https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ACETV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a0198825-7700-4a3a-8399-338e8e1d9c64",MIXER | ACE TV
+https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Cornhole TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/47355675-c7fe-49b7-943a-507b3fa938e4",MIXER | Cornhole TV
+https://bbb-aclco-freelivesports.otteravision.com/bbb/aclco/aclco.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="DubaiSports2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Dubai_Sports_Logo_in_2023.png",MIXER | DubaiSports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="European Football League" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51",MIXER | European Football League
+https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FUELTV" tvg-logo="https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png",MIXER | FUEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv-ww/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="H20 TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/59987eb6-cbd7-4a38-b59f-597fc0f8ca45",MIXER | H20 TV
+https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="HOOP TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4454e89b-ea81-4752-a9bb-6db85b40a194",MIXER | HOOP TV
+https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="HorizonSports" tvg-logo="https://a.jsrdn.com/hls/22705/horizon-sports/logo_20231219_213910_70.png",MIXER | Horizon Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Horse & Country" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",MIXER | Horse & Country
+https://sportstri-hncfree-sportstribal-rb7j8.amagi.tv/playlist/sportstri-hncfree-sportstribal/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="HubSports1" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/25/HubSports_2.png",MIXER | Hub Sports 1
+https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="HubSports2" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/25/HubSports_2.png",MIXER | Hub Sports 2
+https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="HubSports4" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/25/HubSports_2.png",MIXER | Hub Sports 4
+https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Hunt Fish TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",MIXER | Hunt Fish TV
+https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="InTrouble" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986",MIXER | InTrouble
+https://amg00861-terninternation-introuble-sportstribal-sog8f.amagi.tv/ts-us-e2-n1/playlist/amg00861-terninternation-introuble-sportstribal/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="K-Baseball TV (KBO)" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/22addd67-1439-4ce9-9feb-318490edbe62",MIXER | K-Baseball TV (KBO)
+https://amg02040-amg02040c10-freelivesports-emea-7496.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02040-lguplus-kbo-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Nova_Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Nova_Sport_1_2024.svg",MIXER | Nova Sport 1 HD
+http://178.23.88.55/Nova_Sport/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Outsidetv" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/logo_20231219_220634_59.png",MIXER | OUTSIDE TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="PLLNetwork" tvg-logo="https://a.jsrdn.com/hls/22964/pll-network-ww/logo_20240626_232614_70.png",MIXER | PLL Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network-ww/pll.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="redbull.tv" tvg-logo="https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",MIXER | Redbull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SharjahSports.ae" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Sharjah_Sports_TV_Logo_2014.png",MIXER | Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SkullBoundTV" tvg-logo="https://a.jsrdn.com/hls/23195/skull-bound-tv/logo_20250102_202956_70.png",MIXER | Skull Bound TV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/E93PS4KYXIWU8QT6LONU/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SportsConnect" tvg-logo="https://a.jsrdn.com/hls/23181/sports-connect/logo_20231219_222026_50.png",MIXER | Sports Connect
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SportsFirstTV" tvg-logo="http://dds.oncast.me/img/logo/sp6.png",MIXER | Sports First TV
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Sports Fishing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c",MIXER | Sports Fishing
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SportsGrid" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/SPORTSGRID_LOGO_BLACK_RED_LOGO.svg",MIXER | SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="SportsTVPlus" tvg-logo="https://a.jsrdn.com/hls/23195/sportstvplus/logo_20241119_225320_70.png",MIXER | SportsTVPlus
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107T153921SQUARE.png",MIXER | Strongman Champions League
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="Sports" tvg-id="TraceSportsStars" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg",MIXER | Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="World of Freesports" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982",MIXER | World of Freesports
+https://amg01866-mainstreammedia-freesportsinc-sportstribal-b3zdo.amagi.tv/ts-eu-w1-n2/playlist/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="BEKSportsWest.us" tvg-logo="https://appcmsprod.viewlift.com/eae092c0-d256-11ed-9371-6da166a39e0f/images/bek-tv-plus-web-logo-noc-1280X728.png",OTHER | BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="CowboyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Cowboy_Channel_logo.png",OTHER | Cowboy TV
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="DotEsports" tvg-logo="https://a.jsrdn.com/hls/22904/dot-esports/logo_20231219_193130_43.png",PC GAME | Dot Esports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dot-esports/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FanDuel TV Extra" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400012RF_20250318T021027SQUARE.png",POKER | FanDuel TV Extra
+https://d1x2mlky5ieruz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lsgd252lenx0/v1/fanduelgroup_fandueltv_01/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Poker Night In America" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432",POKER | Poker Night In America
+https://e8d2c508ef1e469db82ceacd3c2685bc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1068-Poker-Night-in-America-FREELIVESPORTS/mt/freelivesports/1068/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="World Poker Tour" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f",POKER | World Poker Tour
+https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FloRacing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2",RACING | FloRacing
+https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Hagerty" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png",RACING | Hagerty
+https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0etl87ne2tj77/Hagerty.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Motor Vision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Motorvision_2023.svg",RACING | Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="MotorRacing" tvg-logo="https://a.jsrdn.com/hls/22705/motorracing/logo_20231219_215946_68.png",RACING | MotorRacing
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="MTRSPT1" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/logo_20250122_232635_70.png",RACING | MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Nitro Circus TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a1df54a3-e23a-4b0c-bf5e-158e7c02609e",Racing | Nitro Circus TV
+https://amg13231-actve-amg13231c1-sportstribal-emea-1265.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="RACER International" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9fc17fec-6c99-4dc0-9fe5-abe85faeab49",RACING | RACER International
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="RugbyPass TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB330000144_20250624T020553SQUARE.png",RugbyPass TV
+https://97bf7b92.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9SdWdieVBhc3NUVl9ITFM/playlist.m3u8?ads.wurl_channel=1872&ads.wurl_name=RugbyPassTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="Sports" tvg-id="Pickle TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5",TANNIS | Pickle TV
+https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Tennis Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Tennis_Channel_2022.svg",TENNIS | Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="Tennis TV Classics" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ea15b263-636c-4536-9a75-bde70ab88423",TENNIS | Tennis TV Classics
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="FitnessTV" tvg-logo="https://a.jsrdn.com/hls/23024/lifefit-by-triptic/logo_20231219_215130_63.png",YOGA | Fitness TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://makkahlive.net//images/makkah-live-low-resolution-logo-color-on-transparent-background.png",Al Quran Al Kareem TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="BILLALTV.sa" tvg-logo="https://bilaal.tv/wp-content/uploads/2024/03/Logo-Col2.png",BILLAL TV
+https://ap02.iqplay.tv:8082/iqb8002/bil77tv/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="deentv.bd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png",Deen TV Bangla
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="EmanChannel" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/f3/b0/be/f3b0be12-eacf-89d1-e559-95041f0e8fde/source/512x512bb.jpg",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="IBNTV.tz" tvg-logo="https://i.imgur.com/hkV51ij.png",IBN TV
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="IBNTVAfrica.tz" tvg-logo="https://www.ibn-tv.co.tz/img/IBN-NewLogo.png",IBN TV Africa
+http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="IQRABANGLA.bd" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg",IQRA BANGLA
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="IqraTV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png",Iqra TV
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="IslamTV" tvg-logo="https://i.supaimg.com/2109eaa2-edd1-48fc-bf64-6f0fa161e734.webp",ISLAM TV
+https://ap02.iqplay.tv:8082/iqb8002/i6sl9m/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="Madinalive" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",Madina live
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="MakkahTV.sa" tvg-logo="https://play-lh.googleusercontent.com/89KDTm-c-N9GOuG4CK9P7Nc6WcbgGYOLguwblg1254ho2HkuZLkXkH35iuJM19-rng=w240-h480-rw",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="MercyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Mercy_TV.jpg",Mercy TV
+https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="PeaceTVBangla" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/6/BJ/169578/logo_50.png",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="PeaceTVEnglish" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/Q/k_/169572/logo_50.png",Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="PeaceTVUrdu" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/J/kE/169575/logo_50.png",Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="30" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="SalaamTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam.jpg",Salaam TV
+https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="SunnahTV.sa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png",Sunnah TV
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="TakbeerTv.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png",Takbeer TV(UK)
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="TVONE.bd" tvg-logo="https://vhx.imgix.net/oneislamtv1/assets/f9be264e-cfb2-4ebd-9c4a-0df38e7b96a4.png",TV ONE Bangla
+https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="ZainabiaChannel" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="BabySharkTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg",0. Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="doraemon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg",0. Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="duronto" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png",0. DURONTO HD
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Hooray Rhymes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20250122T004830SQUARE.png",0. Hooray Rhymes
+https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hqignh3tex8xc/OTM/OTM_KidsToonsHindi-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="KidsTVIndiaNurseryRhymesandBabySongs.in" tvg-logo="https://a.jsrdn.com/hls/23088/kids-tv-india/logo_20231219_214815_66.png",0. Kids TV India - Nursery Rhymes and Baby Songs
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/plbYMBlbSJHXOLEqCE4tCFPkw-WwoZ5y-oI4M1l5dljjOFMrQj9g_ZYTb5Fu8t_y8weRNR4iHQ=s160-c-k-c0x00ffffff-no-rj", 0. Masha and The Bear
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759673903/ei/zyniaLm7DbXClu8PptKI4AE/ip/135.232.177.244/id/Ysleu_HAft4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/ATw7iSUXBwD6M6j36p0EpojNUH8jnwImVhsc0C3qILUXaShEMB5gLblOBzZ8w3T6wP4x1dCnhg/spc/hcYD5Whffr6qVWPHduXUp-oaCrGxjrzYiq2tQgNB0oyrgoiAlVjjI1sAKe7QQI7Ewdyh7h7SBhimEuVo6WM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN2z0VcYDNHj_Fsaek1v7eVh7WJhl-KsB9TA4mDpiSimAiEAt_J-fub4zwnrJmodrwh5-gJwbRoSTflkF-3rxx9loV0%3D/file/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Moonbug" tvg-logo="https://yt3.googleusercontent.com/3fWnBPeggOeAwIiDTKowTUF-Va2gqE8j0yn0dTObXYliN7rlVloY4CAoqiqbo7FIIHLzFrjjbg=s72-c-k-c0x00ffffff-no-rj",0. Moonbug
+https://dq2a9ghraf7sw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxq18dopv0o6q/Moonbug.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Oggy and the cockroaches" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/OggyAndTheCockroachesNextGeneration.png",0. Oggy and the cockroaches
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="PBSkids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/PBS_Kids_%282022%29.svg",0. PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Pocoyo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB700004ET_20250107T031205SQUARE.png",0. Pocoyo
+https://d1l8e2fpbn7elb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfmlamz0dpzk7/pocen.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20250729T045852SQUARE.png",0. SuperToons TV
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD5100001HL
+#EXTINF:-1 group-title="Kids" tvg-id="Tiny POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png",0. Tiny POP
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="TomandJerry" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/-416014211062tg5cor5qw.png",0. Tom and Jerry
+https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png",0. Toon Goggles
+https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png",0. WowKidz (Motu Patlu)
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/krEBMFPvwl-Fp0TcZh8TH76-z2kHivKvr9ow1IXUvrqOq0l_EjDNDrrVxO-nb2AZeKSWZbgh=s160-c-k-c0x00ffffff-no-rj", 0. WowKidz (Motu Patlu) YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759673906/ei/0iniaK_wH6bsruEPpe-DOA/ip/135.232.177.244/id/MxvtGnIocZ4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/ATw7iSW0WOujFhT08PL1H-2iAolE8rvcLeAt6SZifw8SetABEa1OZ2Cu1msCPIXvrrYqEGhsXA/spc/hcYD5R7kjn4VgjrfgsjaLpeXs4usDnC-KCpP4rvZFvHPivRhoXRmvc4b-WDtZMBnAGOF3uzyIBKFNk39fiQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMWzdpY_oJwQBCjL7g8k_00QnMEaJN-QOqNj6PeKT50wAiEA0JvkVW6fdavCVgkUGEAewPTuISztgBStxgpWZRMoXFs%3D/file/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="BabyFirst" tvg-logo="https://babyfirsttv.com/wp-content/uploads/2024/03/babyfirst_logo_2022-1024x202.png",1. BabyFirst
+https://streams.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png",1. BBC Kids
+https://dmr1h4skdal9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-msbj6srh7nhug/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="CampSpoopy" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png",1. Camp Spoopy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6164a963766ab4f9f57e81b1.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 group-title="Kids" tvg-id="CartoonNetwork" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",1. Cartoon Network
+http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
+#EXTINF:-1 group-title="Kids" tvg-id="CartoonNetwork" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png",1. Cartoon Network USA
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Discovery Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",1. Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="DisneyChannel.us@East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Disney_Channel_2022.svg",1. Disney Channel East
+http://kstv.us:8080/live/Purn3542/38791114838/40725.ts
+#EXTINF:-1 group-title="Kids" tvg-id="DisneyJunior.in" tvg-logo="https://static.wikia.nocookie.net/disney/images/a/a8/Disney_Jr._2024_logo.svg",1. Disney Junior India
+http://116.90.120.149:8000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="DuckTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg",1. Duck TV
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Gubbare.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png",1. Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="HiDost.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Hi_dostv2.png",1. Hi Dost!
+https://cdn-1.pishow.tv/live/224/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Hooray Kids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600009F9_20250122T004827SQUARE.png",1. Hooray Kids
+https://cc-hcf2o1ghsvvdu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hcf2o1ghsvvdu/OTM/OTM_HoorayKids-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="US2900013AY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900013AY_20241028T174226SQUARE.png",1. Hot Wheels Action
+https://dtz4aepbew7ez.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j02089jh4uhwc/hotwh.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Ketchup TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3400003A9_20250107T031143SQUARE.png",1. Ketchup TV
+https://d24p9tv2w5yorn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hv7b0gembp7xn/vod.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="KidDo MATIX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20250122T004833SQUARE.png",1. KidDo MATIX
+https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="KIDSFLIX" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png",1. KIDS FLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 group-title="Kids" tvg-id="NickGermanPlutoTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Nickplutotvlogo2023.png",1. Nick German Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede448d3d50590007a4419elivestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&profilesFromStream=true
+#EXTINF:-1 group-title="Kids" tvg-id="Nick Hindi" tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png",1. Nick Hindi
+http://stvlive.net:8080/nick/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Nicktoons_2023_Logo.svg",1. Nick Jr US Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9livestitch/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&profilesFromStream=true
+#EXTINF:-1 group-title="Kids" tvg-id="Nickelodeon.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_%28formerly_Noggin%29_New_Logo.jpg",1. Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="NickJr.us@East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Nick_Jr_%28formerly_Noggin%29_New_Logo.jpg",1. Nickelodeon Pluto TV
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="PappaPigPluto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Peppa_Pig.svg",1. Pappa Pig Pluto
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5livestitch/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=985&terminate=false&userId=&profilesFromStream=true
+#EXTINF:-1 group-title="Kids" tvg-id="RiC+" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900010TD_20250319T011535SQUARE.png",1. RiC+
+https://amg02132-amg02132c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02132-amg02132c2-amgplt0016/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="RongeenTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg",1. Rongeen TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Smurf TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1300001WA_20250107T030751SQUARE.png",1. Smurf TV
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20240520T214655SQUARE.png",1. TG Junior
+https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="The LEGO Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png",1. The LEGO Channel
+https://dh18i7whff86v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="TOONGOOGLE" tvg-logo="https://www.toongoggles.com/themes/custom/tg/toon_goggles/logo.png",1. TOON GOOGLE
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#EXTINF:-1 group-title="Kids" tvg-id="ZOOMOO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/ZooMoo_Kids_2020.svg",1. ZOO MOO
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Ninja Hattori" tvg-logo="https://yt3.googleusercontent.com/QH3scR0Gc7LqcEF1vy9dkdkC6c176m2sgnYGBzyqAjlRScj60kS4cE9xyA7loUPp-1-RZ5MNcA=s160-c-k-c0x00ffffff-no-rj",2. Ninja Hattori
+https://live20.bozztv.com/giatvplayout7/giatv-210448/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="POGO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Pogo_2016.svg",2. POGO
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/453.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20250107T030729SQUARE.png",2. POP
+https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Powerkids Kartoon Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png",2. Powerkids Kartoon Channel
+https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Rabbids Invasion" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD230000420_20250107T030737SQUARE.png",2. Rabbids Invasion
+https://d35yyja0m9lxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-85e7pmu8cbljn/rre.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="sonic.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png",2. Sonic
+https://live.dinesh29.com.np/stream/jiotvplus/sonicbangla/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Sonic The Hedgehog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB370000369_20250107T031224SQUARE.png",2. Sonic The Hedgehog
+https://d2f1o3sb3u36tf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-99j9k8uxi8rc2/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB370000369
+#EXTINF:-1 group-title="Kids" tvg-id="sonyyay.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png",2. SONY YAY!
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=908587&extension=ts&play_token=413IAp959Y
+#EXTINF:-1 group-title="Kids" tvg-id="Strawberry Shortcake" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700002J0_20250819T032543SQUARE.png",2. Strawberry Shortcake
+https://d10c3fwb9yju0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5zgefp9c8p0b/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB3700002J0
+#EXTINF:-1 group-title="Kids" tvg-id="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400007FA_20250819T032541SQUARE.png",2. Teletubbies
+https://dv8lsrd8fecw9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dkls74gdpo7r0/master.m3u8?useRelativeUrls=true&skipBeacons=true&declaredCC1Language=en&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GB2400007FA
+#EXTINF:-1 group-title="Kids" tvg-id="sonyyay.in" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",2. The Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="YAAAS!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB340000289_20250107T031304SQUARE.png",2. YAAAS!
+https://d3knqoaufvjug3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-caepqnvi5dnka/yas.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="5-MinuteCrafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",5-Minute Crafts
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 group-title="Kids" tvg-id="ADNTVPlus.fr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/ADN40_2022.svg",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="AlwaysFunny" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png",Always Funny
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 group-title="Kids" tvg-id="US400002PS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250902T225851SQUARE.png",Animation+
+https://d25xml1ag3v99o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-td10dsmk8ovae/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="AnimeAllDay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/ANIME_ALL_DAY.svg",Anime All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
+#EXTINF:-1 group-title="Kids" tvg-id="BarbieandFriends" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20241104T163538SQUARE.png",Barbie and Friends
+https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/barb.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="CartoonAnima" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Motu-patlu-cover.jpg",Cartoon Anima
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="CartoonClassics.usa" tvg-logo="https://a.jsrdn.com/hls/23195/cartoon-classics/logo_20241119_223053_61.png",Cartoon Classics
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="CartoonNetworkRetroBlast.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network (Retro Blast)
+https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
+#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mme5GlHmFNnSrrGhurc8y-IRauHMAkCUQGbAF_k2CbzCs=s160-c-k-c0x00ffffff-no-rj", Curious George Official
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759673899/ei/yyniaPK-JZ392_gPjcGA8Ag/ip/135.232.177.244/id/izuZegMlYPc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/siu/1/bui/ATw7iSWsdpWbOG0wEYstDMpcQe7WLQOuRj5ORbYG0I12JH1MU84iy-pf34XMwVI9R7y1_ZPqEg/spc/hcYD5XPo_TLlgR2fw-lQ7kHYVpIkDEuqbC5QPzhW5zpg3kdycc77dzVNimQiRFPe1jQ2LuqgRt4zAf-BKw8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALQNchpaT_Bgaek2pGvSLFonthPSUtVNtzcsOxztH3IvAiEAw5Hlk3ByNWWM4jOzWOd8Rk8EnTmIRZQ0ZYrD2a7QV4Y%3D/file/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="DisneyJunior.eu" tvg-logo="https://static.wikia.nocookie.net/disney/images/a/a8/Disney_Jr._2024_logo.svg",Disney Junior Europe
+https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Just for laughs – Pluto TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Just_for_Laughs_2021.svg",Just for laughs (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Kids" tvg-id="US2900015RO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png",Kartoon Channel!
+https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ajxyy4yaic6nq/kchan.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="KidScreation" tvg-logo="http://syidyacreationjr.com/wp-content/uploads/2017/11/boysrgb.jpg",Kid Screation
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="NICKHindi" tvg-logo="https://static.wikia.nocookie.net/logopedia-fanon/images/b/ba/NickToons_UK_2007.svg",NICK Hindi
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1034.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="123GO" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png",One Two Three GO!
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8?X-Plex-Token=FwkvCmx3uzFc7eYkDe2m
+#EXTINF:-1 group-title="Kids" tvg-id="Spacetoon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Spacetoon_logo.png",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="toonami.aftermath" tvg-logo="https://i.pinimg.com/564x/e5/65/b0/e565b090b34dc756072aff0584f6cbab.jpg",Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="ToonzKids" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/logo_20231219_223312_67.png",ToonzKids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="ToonzKidsAtfal" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-atfal/logo_20231219_223251_61.png",ToonzKids Atfal
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-arabic/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="ToonzKidsnios" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids-ninos/logo_20231219_223332_60.png",ToonzKids niños
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="TVSuldeMinas.br" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6BzhoO6x2b6h6L7aw5tfSWZLwzwnlAPhhQ1hHCPEEOYA=s72-c-k-c0x00ffffff-no-rj",TV Sul de Minas
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="WildNature" tvg-logo="https://a.jsrdn.com/hls/23208/wild-nature/logo_20250401_214215_70.png",Wild Nature
+https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="XtremaCartoons.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Pinoyextremechannel.png",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="Solnce.ru" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5.svg",Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Badland_Hunters_Dubbed" tvg-logo="https://image.tmdb.org/t/p/original/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg",Badland Hunters Dubbed (2024)
+https://pixeldra.in/api/file/GA46iMCu?download
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Tofan" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/abcq7WjoFx4WGU0HLcuOytpkLFG.jpg",Tofan (2024)
+https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Mone_Rekho" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDliMWMxMGMtNjllMy00MWI2LTg3ODctYTliYjczNmNmMDc3XkEyXkFqcGc@._V1_.jpg",Mone Rekho (2018)
+https://dl.dropboxusercontent.com/scl/fi/pptiayf3rd0hmehtisbsj/MLSBD.Shop-Mone-Rekho-2019-RarbgHD.Live-Bengali-720p.mkv?rlkey=guyio0qa1ardgoxqc5nolmki1&dl=1.mkv
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Parbona_Ami_Chartey_Tokey" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1WJl1ZBg51hBx5UA39vrC39F7Ft.jpg",Parbona Ami Chartey Tokey (2015)
+https://dl.dropboxusercontent.com/scl/fi/u1tqqxvlnbm9brkdgahui/Parbo.Na.Aami.Chartey.Toke.2017.720p.AMZN.WebRip.AAC2.0.H.264-MovieLinkBD.mkv?rlkey=7b7bs70bhivbglli2yivc29mp&dl=1.mkv
+#EXTINF:-1 group-title="Movies - Bangla" tvg-id="Amazon_Obhijaan" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Ir8Fw9VI9j1dcMbdBiwSY8wubz.jpg",Amazon Obhijaan (2009)
+https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazon.Obhijaan.2017.720p.mkv?rlkey=teexwav1olvy172f87mnf2j35&dl=1.mkv
+#EXTINF:-1 group-title="Movies - Hindi" tvg-id="Pippa" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7bD664CWGigcjlT8wf2VR3KZCtK.jpg",Pippa (2023)
+https://wh1168170.ispot.cc/Pippa.mkv
