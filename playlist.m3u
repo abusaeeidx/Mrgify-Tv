@@ -2,7 +2,7 @@
 # Developed By: ABU SAEEiD × Rifaz
 # GitHub @abusaeeidx
 # IPTV Telegram Channels: @xfireflixbd
-# Last Updated: 2026-09-04 07:43 PM (BD Time)
+# Last Updated: 2026-09-04 11:09 PM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only.
@@ -12,14 +12,20 @@
 
 #EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="Welcome to PlayZ TV | New App" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
 https://playztv.pages.dev/promo/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Live Event", UAE Women vs Indonesia Women - 4 Sep 2026 [ENG] - DP World Women's Asia Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788584316~acl=/*~id=56061130976435902549009580451913~hmac=af7ecd62d678ea11464e32e3adf160a10e16edba86dc1ea386e68a9319f8ce50
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Live Event", UAE Women vs Indonesia Women - 4 Sep 2026 [HIN] - DP World Women's Asia Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788584316~acl=/*~id=56061130976435902549009580451913~hmac=af7ecd62d678ea11464e32e3adf160a10e16edba86dc1ea386e68a9319f8ce50
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Live Event", UAE Women vs Indonesia Women - 4 Sep 2026 [TAM] - DP World Women's Asia Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788584316~acl=/*~id=56061130976435902549009580451913~hmac=af7ecd62d678ea11464e32e3adf160a10e16edba86dc1ea386e68a9319f8ce50
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Live Event", UAE Women vs Indonesia Women - 4 Sep 2026 [TEL] - DP World Women's Asia Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788584316~acl=/*~id=56061130976435902549009580451913~hmac=af7ecd62d678ea11464e32e3adf160a10e16edba86dc1ea386e68a9319f8ce50
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023387/1788366148651182_AWC26_UAE_vs_Indonesia_live_landscape_thumb.jpg" group-title="Live Event", UAE Women vs Indonesia Women - 4 Sep 2026 [KAN] - DP World Women's Asia Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788584316~acl=/*~id=56061130976435902549009580451913~hmac=af7ecd62d678ea11464e32e3adf160a10e16edba86dc1ea386e68a9319f8ce50
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Live Event", Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 [HIN] - Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788569064~acl=/*~id=92796848797750448766969849070892~hmac=c97a34258418658144060122463729066233ddae29ade5b5cab92a33c57a784b
+https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788584316~acl=/*~id=56061130976435902549009580451913~hmac=af7ecd62d678ea11464e32e3adf160a10e16edba86dc1ea386e68a9319f8ce50
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Live Event", Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 [PAN] - Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788569064~acl=/*~id=92796848797750448766969849070892~hmac=c97a34258418658144060122463729066233ddae29ade5b5cab92a33c57a784b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023469/1788466451709385_JPL_Eliminator_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" group-title="Live Event", Rajasthan Rajvansh vs Mumbai Kings - Eliminator - 4 Sep 2026 [ENG] - JITO Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788569064~acl=/*~id=92796848797750448766969849070892~hmac=c97a34258418658144060122463729066233ddae29ade5b5cab92a33c57a784b
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg" group-title="Live Event", Omega European Masters - Day 2 - 4 Sep 2026 [ENG] - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788569064~acl=/*~id=92796848797750448766969849070892~hmac=c97a34258418658144060122463729066233ddae29ade5b5cab92a33c57a784b
+https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788584316~acl=/*~id=56061130976435902549009580451913~hmac=af7ecd62d678ea11464e32e3adf160a10e16edba86dc1ea386e68a9319f8ce50
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Akash Go",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Akash Go",Deepto TV
@@ -38,9 +44,9 @@ http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports Live 01 (1)
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (1080p) (1) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (1080p) (1) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",[BD] Zee Bangla
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
@@ -952,125 +958,137 @@ https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c
 https://playztv.pages.dev/promo/master.m3u8
 #EXTINF:-1 tvg-name="Deshi TV (720p)" group-title="Unknown",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="My TV" group-title="Unknown",My TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Channel S" group-title="Unknown",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Green TV (1080p)" group-title="Unknown",Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="Unknown",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-name="Maasranga TV (720p)" group-title="Unknown",Maasranga TV (720p)
 http://tvsen5.aynascope.net/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-name="ATN Music (360p)" group-title="Unknown",ATN Music (360p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Green TV (1080p)" group-title="Unknown",Green TV (1080p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Gazi TV" group-title="Unknown",Gazi TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV (720p)" group-title="Unknown",RTV (720p)
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:-1 tvg-name="Channel S" group-title="Unknown",Channel S
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV (720p)" group-title="Unknown",RTV (720p)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
 #EXTINF:-1 tvg-name="Maasranga TV (720p)" group-title="Unknown",Maasranga TV (720p)
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-name="Nexus TV (576p)" group-title="Unknown",Nexus TV (576p)
-https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-#EXTINF:-1 tvg-name="Duronto TV (720p)" group-title="Unknown",Duronto TV (720p)
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 #EXTINF:-1 tvg-name="RTV (720p)" group-title="Unknown",RTV (720p)
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 tvg-name="Nexus TV (576p)" group-title="Unknown",Nexus TV (576p)
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 tvg-name="T Sports (1080p)" group-title="Unknown",T Sports (1080p)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-name="Rajdhani TV (1080p)" group-title="Unknown",Rajdhani TV (1080p)
-https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-name="NTV (720p)" group-title="Unknown",NTV (720p)
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1 tvg-name="Star Jalsha HD" group-title="Star Jalsha",Star Jalsha HD
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
+#EXTINF:-1 tvg-name="Duronto TV (720p)" group-title="Unknown",Duronto TV (720p)
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1 tvg-name="Rajdhani TV (1080p)" group-title="Unknown",Rajdhani TV (1080p)
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV" group-title="Bangladesh",Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 tvg-name="ATN News" group-title="Bangladesh",ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-name="Ananda TV" group-title="Bangladesh",Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
-#EXTINF:-1 tvg-name="BTV Chattogram" group-title="Bangladesh",BTV Chattogram
-https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
-#EXTINF:-1 tvg-name="Channel I" group-title="Bangladesh",Channel I
-https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-name="Sony 8" group-title="Indian Bangla",Sony 8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-#EXTINF:-1 tvg-name="Bein Sports Extra 2" group-title="Sports",Bein Sports Extra 2
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="RTV" group-title="Bangladesh",RTV
-http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
-https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-name="Channel I" group-title="Bangladesh",Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1 tvg-name="BTV Chattogram" group-title="Bangladesh",BTV Chattogram
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #EXTINF:-1 tvg-name="Channel 9" group-title="Bangladesh",Channel 9
 https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8
-#EXTINF:-1 tvg-name="NTV" group-title="Bangladesh",NTV
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Global TV" group-title="Bangladesh",Global TV
-https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 #EXTINF:-1 tvg-name="Ekushe ETV" group-title="Bangladesh",Ekushe ETV
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
-#EXTINF:-1 tvg-name="My TV" group-title="Bangladesh",My TV
-https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
-#EXTINF:-1 tvg-name="Pardesi TV" group-title="India",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ekhon TV" group-title="Bangladesh",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-name="Desh TV" group-title="Bangladesh",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-name="G Series Drama" group-title="Bangladesh",G Series Drama
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Extra 2" group-title="Sports",Bein Sports Extra 2
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="MTRSPT" group-title="Sports",MTRSPT
 https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
-#EXTINF:-1 tvg-name="Horse & Country" group-title="Sports",Horse & Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Global TV" group-title="Bangladesh",Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
+#EXTINF:-1 tvg-name="NTV" group-title="Bangladesh",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="My TV" group-title="Bangladesh",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+#EXTINF:-1 tvg-name="RTV" group-title="Bangladesh",RTV
+http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Pardesi TV" group-title="India",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Willow" group-title="Sports",Willow
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="T Sports" group-title="Sports",T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Sony TV HD" group-title="India",Sony TV HD
+http://premimum.online:80/live/jen12345/jen54321/98854.ts
 #EXTINF:-1 tvg-name="A Sports" group-title="Sports",A Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" group-title="Sports",Star Sports 1 Hindi HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-name="Sony TV HD" group-title="India",Sony TV HD
-http://premimum.online:80/live/jen12345/jen54321/98854.ts
-#EXTINF:-1 tvg-name="Willow" group-title="Sports",Willow
-https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-name="Cricket Gold" group-title="Sports",Cricket Gold
-https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
-#EXTINF:-1 tvg-name="News 21 HD" group-title="Bangladesh",News 21 HD
-http://103.190.133.68:1935/news21live/live/chunklist_w54225199.m3u8
 #EXTINF:-1 tvg-name="Channel 1" group-title="Bangladesh",Channel 1
 https://stream.ottplus.live/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-name="Trace Sport" group-title="Sports",Trace Sport
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bijoy TV" group-title="Bangladesh",Bijoy TV
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Music TV" group-title="Music",Music TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="India",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="DW" group-title="Others",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-name="Trace Sport" group-title="Sports",Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Bollywood" group-title="India",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio BBC" group-title="Radio",Radio BBC
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
+#EXTINF:-1 tvg-name="Cricket Gold" group-title="Sports",Cricket Gold
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
+#EXTINF:-1 tvg-name="Mohona TV" group-title="Bangladesh",Mohona TV
+https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
+#EXTINF:-1 tvg-name="30A Music" group-title="Music",30A Music
+https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-name="Action Bollywood Movies" group-title="Others",Action Bollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="YRF Music" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio BBC" group-title="Radio",Radio BBC
-https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_vlow_sbr_v1/cfs/bbc_world_service_news_internet.m3u8
 #EXTINF:-1 tvg-name="Sony Sports 5 HD" group-title="Sports",Sony Sports 5 HD
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" group-title="Infotainment",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="CNBC TV 18" group-title="Others",CNBC TV 18
-https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="Digital Fashion" group-title="Others",Digital Fashion
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
-#EXTINF:-1 tvg-name="CNBC Awaaz" group-title="Others",CNBC Awaaz
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-name="Euro Sports" group-title="Sports",Euro Sports
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+#EXTINF:-1 tvg-name="Zee TV HD" group-title="India",Zee TV HD
+https://stream.ottplus.bd/live/zee_tv_hd_abr/live/zee_tv_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
+https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
+#EXTINF:-1 tvg-name="Pogo" group-title="Kids",Pogo
+https://stream.ottplus.bd/live/pogo_sd_abr/live/pogo_sd/chunks.m3u8
 #EXTINF:-1 tvg-name="Sony Yay" group-title="Kids",Sony Yay
 https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
+#EXTINF:-1 tvg-name="Sony Pix HD" group-title="Others",Sony Pix HD
+https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-name="TNT Music" group-title="Music",TNT Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#EXTINF:-1 tvg-name="Doraemon" group-title="Bangla | 24/7",Doraemon
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Motu Patlu" group-title="Cartoons | 24/7",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Gopal Bhar" group-title="Cartoons | 24/7",Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Motu Patlu" group-title="Cartoons | 24/7",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Hindi Movies" group-title="Hindi | 24/7",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="South Movies" group-title="Hindi | 24/7",South Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Doraemon" group-title="Bangla | 24/7",Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
